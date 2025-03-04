@@ -17,7 +17,11 @@
         class="hover:bg-gray-100 cursor-pointer"
       >
         <td class="border p-2">
-          <NuxtLink :to="getDetailsLink(laureate.id)" class="text-blue-600 hover:underline">
+          <NuxtLink
+            :to="getDetailsLink(laureate.id)"
+            class="text-blue-600 hover:underline"
+            @click.prevent
+          >
             {{ laureate.fullname || laureate.organisation }}
           </NuxtLink>
         </td>
@@ -44,13 +48,17 @@ const props = defineProps({
 
 const emit = defineEmits(['sort']);
 
-const getDetailsLink = (id) => ({
-  path: `/details/${id}`,
-  query: {
-    page: props.page,
-    perPage: props.perPage
-  }
-});
+const getDetailsLink = (id) => {
+  const link = {
+    path: `/details/${id}`,
+    query: {
+      fromPage: props.page.toString(),
+      fromPerPage: props.perPage.toString()
+    }
+  };
+  console.log('Generated details link:', link);
+  return link;
+};
 
 const navigateToDetails = (id) => {
   navigateTo(getDetailsLink(id));

@@ -1,5 +1,22 @@
 <template>
   <div class="max-w-2xl mx-auto mt-6 p-6 bg-white shadow-md rounded-lg">
+    <NuxtLink
+      :to="{ path: '/', query: { fromPage: route.query.fromPage, fromPerPage: route.query.fromPerPage }}"
+      class="-ml-4 -mt-4 mb-4 flex items-center gap-2 text-blue hover:underline"
+    >
+    <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="40"
+              height="40"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1"
+            >
+              <path d="M15 18l-6-6 6-6"/>
+            </svg>
+     <span>Back to Table</span>
+    </NuxtLink>
     <h1 v-if="laureate?.fullname && laureate.fullname !== 'N/A'" class="text-2xl font-bold mb-6">
       {{ laureate.fullname }}
     </h1>
@@ -42,8 +59,6 @@
 
     <div v-else-if="error" class="text-red-600">{{ error }}</div>
     <div v-else class="text-gray-600">Loading...</div>
-
-    <NuxtLink to="/" class="mt-4 inline-block text-blue-600 hover:underline">Back to List</NuxtLink>
   </div>
 </template>
 

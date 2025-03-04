@@ -1,3 +1,4 @@
+<!-- NobelLaureates.vue -->
 <template>
   <div class="container mx-auto p-4">
     <h1 class="text-2xl font-bold mb-6">Nobel Laureates</h1>
@@ -32,11 +33,12 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue';
-import { useRoute } from 'vue-router';
+import { ref, computed, onMounted, onBeforeMount } from 'vue';
+import { useRoute, useRouter } from 'vue-router';
 import { useApi } from '../composables/useApi';
 
 const route = useRoute();
+const router = useRouter();
 const { getLaureates } = useApi();
 
 const laureates = ref([]);
@@ -65,6 +67,7 @@ const fetchData = async () => {
     sort: sortKey.value === 'name' ? 'surname' : sortKey.value,
     order: sortOrder.value,
   };
+  console.log('Fetching data with params:', params);
   const data = await getLaureates(params);
   laureates.value = data.laureates;
   total.value = data.total;
@@ -78,6 +81,7 @@ const handleFilterChange = (filters) => {
   laureateType.value = filters.type;
   perPage.value = filters.perPage;
   page.value = 1; // Reset to page 1 on filter change
+  updateRouteQuery();
   fetchData();
 };
 
@@ -90,18 +94,49 @@ const handleSort = (key) => {
 const changePage = (newPage) => {
   if (newPage >= 1 && newPage <= totalPages.value) {
     page.value = newPage;
+    updateRouteQuery();
     fetchData();
   }
 };
 
+const updateRouteQuery = () => {
+  router.replace({
+    query: {
+      fromPage: page.value.toString(),
+      fromPerPage: perPage.value.toString()
+    }
+  });
+};
+
+const restorePagination = () => {
+  console.log('Route query on restore:', route.query);
+  const fromPage = parseInt(route.query.fromPage);
+  const fromPerPage = route.query.fromPerPage === 'all' ? 'all' : parseInt(route.query.fromPerPage);
+
+  if (fromPage && !isNaN(fromPage)) {
+    page.value = fromPage;
+    console.log('Restored page to:', page.value);
+  }
+  if (fromPerPage) {
+    perPage.value = fromPerPage;
+    console.log('Restored perPage to:', perPage.value);
+  }
+};
+
+// Use onBeforeMount to ensure state is set before rendering
+onBeforeMount(() => {
+  restorePagination();
+});
+
+// Ensure initial fetch respects restored state
 onMounted(() => {
-  // Restore pagination from query parameters
-  const queryPage = parseInt(route.query.page);
-  const queryPerPage = route.query.perPage === 'all' ? 'all' : parseInt(route.query.perPage);
+  fetchData();
+});
 
-  if (queryPage && !isNaN(queryPage)) page.value = queryPage;
-  if (queryPerPage) perPage.value = queryPerPage;
-
+// Watch route changes for navigation (e.g., back/forward)
+watch(() => route.query, (newQuery) => {
+  console.log('Route query changed:', newQuery);
+  restorePagination();
   fetchData();
 });
 </script>

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex space-x-4 mb-6">
+  <div class="flex gap-4 mb-6 flex-wrap">
     <select v-model="localFilters.year" @change="updateFilters" class="border rounded p-2">
       <option value="">All Years</option>
       <option v-for="year in years" :key="year" :value="year">{{ year }}</option>

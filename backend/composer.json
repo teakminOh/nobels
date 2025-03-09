@@ -1,5 +1,17 @@
 {
     "require": {
-        "vlucas/phpdotenv": "*"
+        "vlucas/phpdotenv": "*",
+        "robthree/twofactorauth": "^3.0",
+        "endroid/qr-code": "^6.0",
+        "google/apiclient": "^2.18",
+        "firebase/php-jwt": "^6.11"
+    },
+    "scripts": {
+        "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
+    },
+    "extra": {
+        "google/apiclient-services": [
+            "Oauth2"
+        ]
     }
 }

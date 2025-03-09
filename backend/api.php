@@ -1,6 +1,9 @@
 <?php
 header('Content-Type: application/json');
-header('Access-Control-Allow-Origin: http://localhost:3000');
+header('Access-Control-Allow-Origin: http://localhost:3000'); // Exact origin
+header('Access-Control-Allow-Methods: GET, POST, OPTIONS'); // Allow GET (and others if needed)
+header('Access-Control-Allow-Headers: Content-Type, Authorization');
+header('Access-Control-Allow-Credentials: true'); // Must be true for credentials
 
 require_once __DIR__ . '/config.php';
 
@@ -72,7 +75,12 @@ try {
 
     // Sorting - Simplified since no duplicates
     if ($sort === 'surname') {
-        $sortField = "IFNULL(l.fullname, l.organisation)";
+        $sortField = "
+            CASE 
+                WHEN l.fullname IS NOT NULL AND l.fullname != '' 
+                THEN SUBSTRING_INDEX(l.fullname, ' ', -1)
+                ELSE l.organisation
+            END";
     } elseif ($sort === 'year') {
         $sortField = "MIN(p.year)"; // Sort by earliest prize year
     } else { // category

@@ -1,0 +1,952 @@
+[06-Mar-2025 10:33:15 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:22 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:23 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:23 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:23 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:24 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:24 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:24 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:25 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:25 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:25 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:26 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:26 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:26 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:33:27 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 10:35:48 UTC] PHP Warning:  Undefined variable $pdo in /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php on line 74
+[06-Mar-2025 10:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php:21
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(74): userExist()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/utilities.php on line 21
+[06-Mar-2025 14:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "Endroid\QrCode\ErrorCorrectionLevel" not found in /var/www/node87.webte.fei.stuba.sk/nobels/backend/vendor/robthree/twofactorauth/lib/Providers/Qr/EndroidQrCodeProvider.php:120
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/vendor/robthree/twofactorauth/lib/Providers/Qr/EndroidQrCodeProvider.php(42): RobThree\Auth\Providers\Qr\EndroidQrCodeProvider->handleErrorCorrectionLevel()
+#1 /var/www/node87.webte.fei.stuba.sk/nobels/backend/register.php(120): RobThree\Auth\Providers\Qr\EndroidQrCodeProvider->__construct()
+#2 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/vendor/robthree/twofactorauth/lib/Providers/Qr/EndroidQrCodeProvider.php on line 120
+[08-Mar-2025 11:44:09 UTC] PHP Warning:  require_once(/var/www/node87.webte.fei.stuba.sk/nobels/backend/../../config.php): Failed to open stream: No such file or directory in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 22
+[08-Mar-2025 11:44:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/node87.webte.fei.stuba.sk/nobels/backend/../../config.php' (include_path='.:/usr/share/php') in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php:22
+Stack trace:
+#0 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 22
+[08-Mar-2025 11:44:44 UTC] Request method: POST
+[08-Mar-2025 11:44:44 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectDatabase(), 0 passed in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 39 and exactly 4 expected in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php:30
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php(39): connectDatabase()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php on line 30
+[08-Mar-2025 11:50:13 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9046","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434613.401918,"REQUEST_TIME":1741434613}
+[08-Mar-2025 11:50:13 UTC] Request method: GET
+[08-Mar-2025 11:50:13 UTC] Invalid request method received: GET
+[08-Mar-2025 11:50:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9052","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434623.442605,"REQUEST_TIME":1741434623}
+[08-Mar-2025 11:50:23 UTC] Request method: OPTIONS
+[08-Mar-2025 11:50:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9053","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434623.551685,"REQUEST_TIME":1741434623}
+[08-Mar-2025 11:50:23 UTC] Request method: POST
+[08-Mar-2025 11:50:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectDatabase(), 0 passed in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 43 and exactly 4 expected in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php:30
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php(43): connectDatabase()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php on line 30
+[08-Mar-2025 11:50:47 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9052","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434647.081301,"REQUEST_TIME":1741434647}
+[08-Mar-2025 11:50:47 UTC] Request method: OPTIONS
+[08-Mar-2025 11:50:47 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"73","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9053","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"73","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434647.131059,"REQUEST_TIME":1741434647}
+[08-Mar-2025 11:50:47 UTC] Request method: POST
+[08-Mar-2025 11:50:47 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectDatabase(), 0 passed in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 43 and exactly 4 expected in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php:30
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php(43): connectDatabase()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php on line 30
+[08-Mar-2025 11:53:31 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9003","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434811.519283,"REQUEST_TIME":1741434811}
+[08-Mar-2025 11:53:31 UTC] Request method: OPTIONS
+[08-Mar-2025 11:53:31 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9004","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741434811.639884,"REQUEST_TIME":1741434811}
+[08-Mar-2025 11:53:31 UTC] Request method: POST
+[08-Mar-2025 11:53:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectDatabase(), 0 passed in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 43 and exactly 4 expected in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php:30
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php(43): connectDatabase()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php on line 30
+[08-Mar-2025 11:57:31 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8995","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435051.161913,"REQUEST_TIME":1741435051}
+[08-Mar-2025 11:57:31 UTC] Request method: OPTIONS
+[08-Mar-2025 11:57:31 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8996","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435051.311411,"REQUEST_TIME":1741435051}
+[08-Mar-2025 11:57:31 UTC] Request method: POST
+[08-Mar-2025 11:57:31 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"545666"}
+[08-Mar-2025 11:57:41 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8995","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435061.083421,"REQUEST_TIME":1741435061}
+[08-Mar-2025 11:57:41 UTC] Request method: OPTIONS
+[08-Mar-2025 11:57:41 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8996","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435061.122415,"REQUEST_TIME":1741435061}
+[08-Mar-2025 11:57:41 UTC] Request method: POST
+[08-Mar-2025 11:57:41 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"212278"}
+[08-Mar-2025 12:02:54 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9031","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435374.320901,"REQUEST_TIME":1741435374}
+[08-Mar-2025 12:02:54 UTC] Request method: OPTIONS
+[08-Mar-2025 12:02:54 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9032","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435374.470653,"REQUEST_TIME":1741435374}
+[08-Mar-2025 12:02:54 UTC] Request method: POST
+[08-Mar-2025 12:02:54 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"991769"}
+[08-Mar-2025 12:05:37 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8885","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435537.836397,"REQUEST_TIME":1741435537}
+[08-Mar-2025 12:05:37 UTC] Request method: OPTIONS
+[08-Mar-2025 12:05:38 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8886","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435538.068305,"REQUEST_TIME":1741435538}
+[08-Mar-2025 12:05:38 UTC] Request method: POST
+[08-Mar-2025 12:05:38 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"366802"}
+[08-Mar-2025 12:12:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8871","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435943.39903,"REQUEST_TIME":1741435943}
+[08-Mar-2025 12:12:23 UTC] Request method: OPTIONS
+[08-Mar-2025 12:12:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8872","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741435943.528912,"REQUEST_TIME":1741435943}
+[08-Mar-2025 12:12:23 UTC] Request method: POST
+[08-Mar-2025 12:12:23 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"008613"}
+[08-Mar-2025 12:12:23 UTC] Restricted session: []
+[08-Mar-2025 12:12:23 UTC] Session ID: 7026r1nenp4d4jpanctua667i1
+[08-Mar-2025 12:14:21 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8956","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436061.060008,"REQUEST_TIME":1741436061}
+[08-Mar-2025 12:14:21 UTC] Request method: GET
+[08-Mar-2025 12:14:21 UTC] Invalid request method received: GET
+[08-Mar-2025 12:16:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9044","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436183.159323,"REQUEST_TIME":1741436183}
+[08-Mar-2025 12:16:23 UTC] Request method: OPTIONS
+[08-Mar-2025 12:16:23 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9014","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436183.199462,"REQUEST_TIME":1741436183}
+[08-Mar-2025 12:16:23 UTC] Request method: POST
+[08-Mar-2025 12:16:23 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"634758"}
+[08-Mar-2025 12:16:23 UTC] Restricted session: []
+[08-Mar-2025 12:16:23 UTC] Session ID: j0oj5jam160vfm0uuufbeb1nfb
+[08-Mar-2025 12:16:32 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9027","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436192.32959,"REQUEST_TIME":1741436192}
+[08-Mar-2025 12:16:32 UTC] Request method: GET
+[08-Mar-2025 12:16:32 UTC] Invalid request method received: GET
+[08-Mar-2025 12:16:35 UTC] Restricted session: []
+[08-Mar-2025 12:16:35 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 12:19:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8825","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436397.756696,"REQUEST_TIME":1741436397}
+[08-Mar-2025 12:19:57 UTC] Request method: OPTIONS
+[08-Mar-2025 12:19:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8816","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436397.804818,"REQUEST_TIME":1741436397}
+[08-Mar-2025 12:19:57 UTC] Request method: POST
+[08-Mar-2025 12:19:57 UTC] Login session ID before: vlmr040d1763sd7rcmchd456fl
+[08-Mar-2025 12:19:57 UTC] Login session before: []
+[08-Mar-2025 12:19:57 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"090219"}
+[08-Mar-2025 12:19:58 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:19:58 UTC] Login session ID after: vlmr040d1763sd7rcmchd456fl
+[08-Mar-2025 12:19:58 UTC] Restricted session: []
+[08-Mar-2025 12:19:58 UTC] Restricted session ID: c69vrjda0j0rk7td216tos92u5
+[08-Mar-2025 12:20:27 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8825","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436427.340954,"REQUEST_TIME":1741436427}
+[08-Mar-2025 12:20:27 UTC] Request method: OPTIONS
+[08-Mar-2025 12:20:27 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8816","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436427.379508,"REQUEST_TIME":1741436427}
+[08-Mar-2025 12:20:27 UTC] Request method: POST
+[08-Mar-2025 12:20:27 UTC] Login session ID before: elbjs1ii19bdua7n591791svgp
+[08-Mar-2025 12:20:27 UTC] Login session before: []
+[08-Mar-2025 12:20:27 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"344747"}
+[08-Mar-2025 12:20:27 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:20:27 UTC] Login session ID after: elbjs1ii19bdua7n591791svgp
+[08-Mar-2025 12:20:27 UTC] Restricted session: []
+[08-Mar-2025 12:20:27 UTC] Restricted session ID: ukbm9fthotqakj454cg6mbovrm
+[08-Mar-2025 12:20:32 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8850","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741436432.220217,"REQUEST_TIME":1741436432}
+[08-Mar-2025 12:20:32 UTC] Request method: GET
+[08-Mar-2025 12:20:32 UTC] Login session ID before: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 12:20:32 UTC] Login session before: []
+[08-Mar-2025 12:20:32 UTC] Invalid request method received: GET
+[08-Mar-2025 12:20:35 UTC] Restricted session: []
+[08-Mar-2025 12:20:35 UTC] Restricted session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 12:31:26 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8826","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741437086.077172,"REQUEST_TIME":1741437086}
+[08-Mar-2025 12:31:26 UTC] Request method: OPTIONS
+[08-Mar-2025 12:31:26 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8827","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741437086.197772,"REQUEST_TIME":1741437086}
+[08-Mar-2025 12:31:26 UTC] Request method: POST
+[08-Mar-2025 12:31:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 33) in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 35
+[08-Mar-2025 12:31:26 UTC] Login session ID before: vaqmo7b2g7v928294j4rp9vq9o
+[08-Mar-2025 12:31:26 UTC] Login session before: []
+[08-Mar-2025 12:31:26 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"986415"}
+[08-Mar-2025 12:31:26 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:31:26 UTC] Login session ID after: vaqmo7b2g7v928294j4rp9vq9o
+[08-Mar-2025 12:31:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /var/www/node87.webte.fei.stuba.sk/nobels/backend/restricted.php on line 19) in /var/www/node87.webte.fei.stuba.sk/nobels/backend/restricted.php on line 21
+[08-Mar-2025 12:31:27 UTC] Restricted session: []
+[08-Mar-2025 12:31:27 UTC] Restricted session ID: ahabt6fq5fqj0mkb4eejq3hlc8
+[08-Mar-2025 12:37:18 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9056","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741437438.671548,"REQUEST_TIME":1741437438}
+[08-Mar-2025 12:37:18 UTC] Request method: OPTIONS
+[08-Mar-2025 12:37:18 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8806","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741437438.785081,"REQUEST_TIME":1741437438}
+[08-Mar-2025 12:37:18 UTC] Request method: POST
+[08-Mar-2025 12:37:18 UTC] Login session ID before: 7pd7po7no0l137q5p4e0m3db74
+[08-Mar-2025 12:37:18 UTC] Login session before: []
+[08-Mar-2025 12:37:18 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"958639"}
+[08-Mar-2025 12:37:19 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:37:19 UTC] Login session ID after: 7pd7po7no0l137q5p4e0m3db74
+[08-Mar-2025 12:37:19 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:38:32 UTC] Restricted session: []
+[08-Mar-2025 12:38:32 UTC] Restricted session ID: jh1g87g4ma0vda0jksbr20vge8
+[08-Mar-2025 12:38:32 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:38:38 UTC] Restricted session: []
+[08-Mar-2025 12:38:38 UTC] Restricted session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 12:38:38 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:46:44 UTC] Restricted session: []
+[08-Mar-2025 12:46:44 UTC] Restricted session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 12:46:44 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:47:21 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8876","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438041.336602,"REQUEST_TIME":1741438041}
+[08-Mar-2025 12:47:21 UTC] Request method: OPTIONS
+[08-Mar-2025 12:47:21 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8877","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438041.457905,"REQUEST_TIME":1741438041}
+[08-Mar-2025 12:47:21 UTC] Request method: POST
+[08-Mar-2025 12:47:21 UTC] Login session ID before: a5luo9phg2bs5ccbrd3m3c5cg1
+[08-Mar-2025 12:47:21 UTC] Login session before: []
+[08-Mar-2025 12:47:21 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"331448"}
+[08-Mar-2025 12:47:21 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:47:21 UTC] Login session ID after: a5luo9phg2bs5ccbrd3m3c5cg1
+[08-Mar-2025 12:47:21 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:55:07 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9006","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438507.225837,"REQUEST_TIME":1741438507}
+[08-Mar-2025 12:55:07 UTC] Request method: OPTIONS
+[08-Mar-2025 12:55:07 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9007","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438507.354237,"REQUEST_TIME":1741438507}
+[08-Mar-2025 12:55:07 UTC] Request method: POST
+[08-Mar-2025 12:55:07 UTC] Login session ID before: j83v28av4t7u2aesr472vpgqag
+[08-Mar-2025 12:55:07 UTC] Login session before: []
+[08-Mar-2025 12:55:07 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"439390"}
+[08-Mar-2025 12:55:07 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:55:07 UTC] Login session ID after: j83v28av4t7u2aesr472vpgqag
+[08-Mar-2025 12:55:07 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:55:48 UTC] Restricted session: []
+[08-Mar-2025 12:55:48 UTC] Restricted session ID: mpuc3cd2t54n5v3b2d87b4g1q8
+[08-Mar-2025 12:55:48 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:58:12 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8841","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438692.267812,"REQUEST_TIME":1741438692}
+[08-Mar-2025 12:58:12 UTC] Request method: OPTIONS
+[08-Mar-2025 12:58:12 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8842","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741438692.396945,"REQUEST_TIME":1741438692}
+[08-Mar-2025 12:58:12 UTC] Request method: POST
+[08-Mar-2025 12:58:12 UTC] Login session ID before: mk841rnj8ov7a26d2c95v478fb
+[08-Mar-2025 12:58:12 UTC] Login session before: []
+[08-Mar-2025 12:58:12 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"518139"}
+[08-Mar-2025 12:58:12 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 12:58:12 UTC] Login session ID after: mk841rnj8ov7a26d2c95v478fb
+[08-Mar-2025 12:58:12 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 12:58:26 UTC] Restricted session: []
+[08-Mar-2025 12:58:26 UTC] Restricted session ID: mkbe5s2ofr1artbc62pnilbcf5
+[08-Mar-2025 12:58:26 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 13:04:12 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8902","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741439052.125706,"REQUEST_TIME":1741439052}
+[08-Mar-2025 13:04:12 UTC] Request method: OPTIONS
+[08-Mar-2025 13:04:12 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8894","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741439052.175491,"REQUEST_TIME":1741439052}
+[08-Mar-2025 13:04:12 UTC] Request method: POST
+[08-Mar-2025 13:04:12 UTC] Login session ID before: t7jac0u9pu1nuaikbom4cqibsq
+[08-Mar-2025 13:04:12 UTC] Login session before: []
+[08-Mar-2025 13:04:12 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"179584"}
+[08-Mar-2025 13:04:12 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 13:04:12 UTC] Login session ID after: t7jac0u9pu1nuaikbom4cqibsq
+[08-Mar-2025 13:04:12 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 13:56:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8993","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741442217.384935,"REQUEST_TIME":1741442217}
+[08-Mar-2025 13:56:57 UTC] Request method: OPTIONS
+[08-Mar-2025 13:56:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8994","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741442217.485659,"REQUEST_TIME":1741442217}
+[08-Mar-2025 13:56:57 UTC] Request method: POST
+[08-Mar-2025 13:56:57 UTC] Login session ID before: pro9egol29cf43r0ksgbjc9cak
+[08-Mar-2025 13:56:57 UTC] Login session before: []
+[08-Mar-2025 13:56:57 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"653271"}
+[08-Mar-2025 13:56:57 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 13:56:57 UTC] Login session ID after: pro9egol29cf43r0ksgbjc9cak
+[08-Mar-2025 13:56:57 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 14:49:07 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9016","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741445347.155166,"REQUEST_TIME":1741445347}
+[08-Mar-2025 14:49:07 UTC] Request method: OPTIONS
+[08-Mar-2025 14:49:07 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9017","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741445347.250551,"REQUEST_TIME":1741445347}
+[08-Mar-2025 14:49:07 UTC] Request method: POST
+[08-Mar-2025 14:49:07 UTC] Login session ID before: i8rdsd0jl5ofets90pb08262oj
+[08-Mar-2025 14:49:07 UTC] Login session before: []
+[08-Mar-2025 14:49:07 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"512075"}
+[08-Mar-2025 14:49:07 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 14:49:07 UTC] Login session ID after: i8rdsd0jl5ofets90pb08262oj
+[08-Mar-2025 14:49:07 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 15:04:13 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8864","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446253.527726,"REQUEST_TIME":1741446253}
+[08-Mar-2025 15:04:13 UTC] Request method: GET
+[08-Mar-2025 15:04:13 UTC] Session ID: 92ivlqv2h471t8jin07grkma5f
+[08-Mar-2025 15:04:13 UTC] Session before: []
+[08-Mar-2025 15:05:32 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8888","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446332.977355,"REQUEST_TIME":1741446332}
+[08-Mar-2025 15:05:32 UTC] Request method: GET
+[08-Mar-2025 15:05:32 UTC] Session ID: 83cctllseel3rcdbrrskpe2bqu
+[08-Mar-2025 15:05:32 UTC] Session before: []
+[08-Mar-2025 15:05:33 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8888","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446333.017304,"REQUEST_TIME":1741446333}
+[08-Mar-2025 15:05:33 UTC] Request method: GET
+[08-Mar-2025 15:05:33 UTC] Session ID: f29ppoptsjvnkoe92qmn4plui4
+[08-Mar-2025 15:05:33 UTC] Session before: []
+[08-Mar-2025 15:05:36 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8888","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446336.257741,"REQUEST_TIME":1741446336}
+[08-Mar-2025 15:05:36 UTC] Request method: GET
+[08-Mar-2025 15:05:36 UTC] Session ID: 09jt6ukfv6d0st3v92emcaj5ud
+[08-Mar-2025 15:05:36 UTC] Session before: []
+[08-Mar-2025 15:05:36 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8889","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446336.287592,"REQUEST_TIME":1741446336}
+[08-Mar-2025 15:05:36 UTC] Request method: GET
+[08-Mar-2025 15:05:36 UTC] Session ID: ubt8g0b89ulcdngv5fivqkgi73
+[08-Mar-2025 15:05:36 UTC] Session before: []
+[08-Mar-2025 15:06:44 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8923","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446404.127776,"REQUEST_TIME":1741446404}
+[08-Mar-2025 15:06:44 UTC] Request method: OPTIONS
+[08-Mar-2025 15:06:44 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8889","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446404.177906,"REQUEST_TIME":1741446404}
+[08-Mar-2025 15:06:44 UTC] Request method: POST
+[08-Mar-2025 15:06:44 UTC] Session ID: fdjprivhopngc4fagodsb9nlmm
+[08-Mar-2025 15:06:44 UTC] Session before: []
+[08-Mar-2025 15:06:44 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"802149"}
+[08-Mar-2025 15:06:44 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 15:06:44 UTC] Login session ID after: fdjprivhopngc4fagodsb9nlmm
+[08-Mar-2025 15:06:44 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 15:06:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8889","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446417.548707,"REQUEST_TIME":1741446417}
+[08-Mar-2025 15:06:57 UTC] Request method: GET
+[08-Mar-2025 15:06:57 UTC] Session ID: 7jttgqkmtiho7d4ej86g6et275
+[08-Mar-2025 15:06:57 UTC] Session before: []
+[08-Mar-2025 15:10:06 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9024","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446606.0532,"REQUEST_TIME":1741446606}
+[08-Mar-2025 15:10:06 UTC] Request method: GET
+[08-Mar-2025 15:10:06 UTC] Session ID: g61046ruu4asj4cqcnahu14ufn
+[08-Mar-2025 15:10:06 UTC] Session before: []
+[08-Mar-2025 15:13:19 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8991","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446799.593387,"REQUEST_TIME":1741446799}
+[08-Mar-2025 15:13:19 UTC] Request method: GET
+[08-Mar-2025 15:13:19 UTC] Session ID: 9034kkp3si7vio2ci03kmacc1h
+[08-Mar-2025 15:13:19 UTC] Session before: []
+[08-Mar-2025 15:15:49 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9005","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446949.722536,"REQUEST_TIME":1741446949}
+[08-Mar-2025 15:15:49 UTC] Request method: GET
+[08-Mar-2025 15:15:49 UTC] Session ID: i4esq10v7dfpds54prmhubk109
+[08-Mar-2025 15:15:49 UTC] Session before: []
+[08-Mar-2025 15:15:50 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9005","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446950.852918,"REQUEST_TIME":1741446950}
+[08-Mar-2025 15:15:50 UTC] Request method: GET
+[08-Mar-2025 15:15:50 UTC] Session ID: i8ckhrtculjr50uf6so0ia0qot
+[08-Mar-2025 15:15:50 UTC] Session before: []
+[08-Mar-2025 15:16:05 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9030","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446965.047027,"REQUEST_TIME":1741446965}
+[08-Mar-2025 15:16:05 UTC] Request method: OPTIONS
+[08-Mar-2025 15:16:05 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9005","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741446965.081343,"REQUEST_TIME":1741446965}
+[08-Mar-2025 15:16:05 UTC] Request method: POST
+[08-Mar-2025 15:16:05 UTC] Session ID: 9dr4blorlh4fnktubml7cjivr9
+[08-Mar-2025 15:16:05 UTC] Session before: []
+[08-Mar-2025 15:16:05 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"654730"}
+[08-Mar-2025 15:16:05 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 15:16:05 UTC] Login session ID after: 9dr4blorlh4fnktubml7cjivr9
+[08-Mar-2025 15:16:05 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 15:19:47 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9052","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447187.612872,"REQUEST_TIME":1741447187}
+[08-Mar-2025 15:19:47 UTC] Request method: GET
+[08-Mar-2025 15:19:47 UTC] Session ID: gndv03vn4jlo0u9ll2l6ah0br6
+[08-Mar-2025 15:19:47 UTC] Session before: []
+[08-Mar-2025 15:20:08 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9052","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447208.462838,"REQUEST_TIME":1741447208}
+[08-Mar-2025 15:20:08 UTC] Request method: GET
+[08-Mar-2025 15:20:08 UTC] Session ID: phed49ch55egdhighisn1hgrja
+[08-Mar-2025 15:20:08 UTC] Session before: []
+[08-Mar-2025 15:25:56 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8926","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447556.012798,"REQUEST_TIME":1741447556}
+[08-Mar-2025 15:25:56 UTC] Request method: GET
+[08-Mar-2025 15:25:56 UTC] Cookies received: []
+[08-Mar-2025 15:25:56 UTC] Session ID: bqvlppn8ml7oc2m70nvpflh12p
+[08-Mar-2025 15:25:56 UTC] Session before: []
+[08-Mar-2025 15:26:01 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8926","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447561.713192,"REQUEST_TIME":1741447561}
+[08-Mar-2025 15:26:01 UTC] Request method: GET
+[08-Mar-2025 15:26:01 UTC] Cookies received: []
+[08-Mar-2025 15:26:01 UTC] Session ID: bq6j1l5mvc5iefieg80rgv0086
+[08-Mar-2025 15:26:01 UTC] Session before: []
+[08-Mar-2025 15:26:16 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8941","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447576.78348,"REQUEST_TIME":1741447576}
+[08-Mar-2025 15:26:16 UTC] Request method: OPTIONS
+[08-Mar-2025 15:26:16 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8926","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447576.831398,"REQUEST_TIME":1741447576}
+[08-Mar-2025 15:26:16 UTC] Request method: POST
+[08-Mar-2025 15:26:16 UTC] Cookies received: []
+[08-Mar-2025 15:26:16 UTC] Session ID: hdicjm9eg64tr0lq4ch36tfh2j
+[08-Mar-2025 15:26:16 UTC] Session before: []
+[08-Mar-2025 15:26:16 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"482470"}
+[08-Mar-2025 15:26:17 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 15:26:17 UTC] Login session ID after: hdicjm9eg64tr0lq4ch36tfh2j
+[08-Mar-2025 15:26:17 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 15:27:27 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8926","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741447647.185326,"REQUEST_TIME":1741447647}
+[08-Mar-2025 15:27:27 UTC] Request method: GET
+[08-Mar-2025 15:27:27 UTC] Cookies received: []
+[08-Mar-2025 15:27:27 UTC] Session ID: e6gmv6u2ud53ikq3kthr00i1s6
+[08-Mar-2025 15:27:27 UTC] Session before: []
+[08-Mar-2025 15:33:57 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9050","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448037.612332,"REQUEST_TIME":1741448037}
+[08-Mar-2025 15:33:57 UTC] Request method: GET
+[08-Mar-2025 15:33:57 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:33:57 UTC] Cookies received: []
+[08-Mar-2025 15:33:57 UTC] Session ID: hfjspcdd1fnfqi9adtu2g4dmfj
+[08-Mar-2025 15:33:57 UTC] Session before: []
+[08-Mar-2025 15:34:11 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_SEC_FETCH_MODE":"cors","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCESS_CONTROL_REQUEST_HEADERS":"content-type","HTTP_ACCESS_CONTROL_REQUEST_METHOD":"POST","HTTP_ACCEPT":"*\/*","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8809","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"OPTIONS","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448051.515141,"REQUEST_TIME":1741448051}
+[08-Mar-2025 15:34:11 UTC] Request method: OPTIONS
+[08-Mar-2025 15:34:11 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_CONTENT_TYPE":"application\/json","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_ACCEPT":"application\/json","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONTENT_LENGTH":"75","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9050","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"75","CONTENT_TYPE":"application\/json","REQUEST_METHOD":"POST","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448051.559439,"REQUEST_TIME":1741448051}
+[08-Mar-2025 15:34:11 UTC] Request method: POST
+[08-Mar-2025 15:34:11 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:11 UTC] Cookies received: []
+[08-Mar-2025 15:34:11 UTC] Session ID: ekkd401td07l6o0oqg9e6g92d0
+[08-Mar-2025 15:34:11 UTC] Session before: []
+[08-Mar-2025 15:34:11 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"558046"}
+[08-Mar-2025 15:34:11 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 15:34:11 UTC] Login session ID after: ekkd401td07l6o0oqg9e6g92d0
+[08-Mar-2025 15:34:11 UTC] Session save path: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:27 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8825","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448067.711751,"REQUEST_TIME":1741448067}
+[08-Mar-2025 15:34:27 UTC] Request method: GET
+[08-Mar-2025 15:34:27 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:27 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 15:34:27 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 15:34:27 UTC] Session before: []
+[08-Mar-2025 15:34:32 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8825","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448072.682385,"REQUEST_TIME":1741448072}
+[08-Mar-2025 15:34:32 UTC] Request method: GET
+[08-Mar-2025 15:34:32 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:32 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 15:34:32 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 15:34:32 UTC] Session before: []
+[08-Mar-2025 15:34:34 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_COOKIE":"_ga_QYXYGT2CTV=GS1.1.1739968461.1.1.1739970126.0.0.0; _ga_CR46WX7N04=GS1.1.1740675807.8.1.1740677993.0.0.0; _ga=GA1.1.1444167331.1739968462; _ga_K07FH1QLJE=GS1.1.1740918096.4.1.1740920935.52.0.0; PHPSESSID=vlcofomi2839dlsg3pnn2u54l3","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_SEC_FETCH_DEST":"document","HTTP_SEC_FETCH_USER":"?1","HTTP_SEC_FETCH_MODE":"navigate","HTTP_SEC_FETCH_SITE":"none","HTTP_ACCEPT":"text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.7","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_UPGRADE_INSECURE_REQUESTS":"1","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"8825","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448074.922239,"REQUEST_TIME":1741448074}
+[08-Mar-2025 15:34:34 UTC] Request method: GET
+[08-Mar-2025 15:34:34 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:34 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 15:34:34 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 15:34:34 UTC] Session before: []
+[08-Mar-2025 15:34:52 UTC] SERVER dump: {"USER":"www-data","HOME":"\/var\/www","HTTP_ACCEPT_LANGUAGE":"sk-SK,sk;q=0.9,en-US;q=0.8,en;q=0.7","HTTP_ACCEPT_ENCODING":"gzip, deflate, br, zstd","HTTP_REFERER":"http:\/\/localhost:3000\/","HTTP_SEC_FETCH_STORAGE_ACCESS":"none","HTTP_SEC_FETCH_DEST":"empty","HTTP_SEC_FETCH_MODE":"cors","HTTP_SEC_FETCH_SITE":"cross-site","HTTP_ORIGIN":"http:\/\/localhost:3000","HTTP_ACCEPT":"*\/*","HTTP_SEC_CH_UA_MOBILE":"?0","HTTP_SEC_CH_UA":"\"Not(A:Brand\";v=\"99\", \"Google Chrome\";v=\"133\", \"Chromium\";v=\"133\"","HTTP_USER_AGENT":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/133.0.0.0 Safari\/537.36","HTTP_SEC_CH_UA_PLATFORM":"\"Windows\"","HTTP_CONNECTION":"keep-alive","HTTP_HOST":"node87.webte.fei.stuba.sk","REDIRECT_STATUS":"200","SERVER_NAME":"node87.webte.fei.stuba.sk","SERVER_PORT":"443","SERVER_ADDR":"147.175.105.87","REMOTE_USER":"","REMOTE_PORT":"9050","REMOTE_ADDR":"46.34.242.38","SERVER_SOFTWARE":"nginx\/1.24.0","GATEWAY_INTERFACE":"CGI\/1.1","HTTPS":"on","REQUEST_SCHEME":"https","SERVER_PROTOCOL":"HTTP\/1.1","DOCUMENT_ROOT":"\/var\/www\/node87.webte.fei.stuba.sk","DOCUMENT_URI":"\/nobels\/backend\/login.php","REQUEST_URI":"\/nobels\/backend\/login.php","SCRIPT_NAME":"\/nobels\/backend\/login.php","CONTENT_LENGTH":"","CONTENT_TYPE":"","REQUEST_METHOD":"GET","QUERY_STRING":"","SCRIPT_FILENAME":"\/var\/www\/node87.webte.fei.stuba.sk\/nobels\/backend\/login.php","PATH_INFO":"","FCGI_ROLE":"RESPONDER","PHP_SELF":"\/nobels\/backend\/login.php","REQUEST_TIME_FLOAT":1741448092.956544,"REQUEST_TIME":1741448092}
+[08-Mar-2025 15:34:52 UTC] Request method: GET
+[08-Mar-2025 15:34:52 UTC] Session save path set to: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 15:34:52 UTC] Cookies received: []
+[08-Mar-2025 15:34:52 UTC] Session ID: 2g433t1u87lqdbavdgpubj9stc
+[08-Mar-2025 15:34:52 UTC] Session before: []
+[08-Mar-2025 17:29:51 UTC] Cookies received: []
+[08-Mar-2025 17:29:51 UTC] Session ID: lo8an0anpsvehkreb8f8t40p7u
+[08-Mar-2025 17:29:51 UTC] Session before: []
+[08-Mar-2025 17:29:51 UTC] Request method: GET
+[08-Mar-2025 17:29:58 UTC] Cookies received: []
+[08-Mar-2025 17:29:58 UTC] Session ID: 61n1rdv39ogmc2cns89b555d2o
+[08-Mar-2025 17:29:58 UTC] Session before: []
+[08-Mar-2025 17:29:58 UTC] Request method: GET
+[08-Mar-2025 17:30:10 UTC] Cookies received: []
+[08-Mar-2025 17:30:10 UTC] Session ID: 025ab3jgnmam0ru57atb0ub84g
+[08-Mar-2025 17:30:10 UTC] Session before: []
+[08-Mar-2025 17:30:10 UTC] Request method: OPTIONS
+[08-Mar-2025 17:30:10 UTC] Cookies received: []
+[08-Mar-2025 17:30:10 UTC] Session ID: it6993stvro9i3kdmmg2fd0btk
+[08-Mar-2025 17:30:10 UTC] Session before: []
+[08-Mar-2025 17:30:10 UTC] Request method: POST
+[08-Mar-2025 17:30:10 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"100541"}
+[08-Mar-2025 17:30:11 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 17:30:11 UTC] Login session ID after: it6993stvro9i3kdmmg2fd0btk
+[08-Mar-2025 17:30:11 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 17:30:28 UTC] Cookies received: []
+[08-Mar-2025 17:30:28 UTC] Session ID: qor56oafmhp1bnr4norf8sl8vc
+[08-Mar-2025 17:30:28 UTC] Session before: []
+[08-Mar-2025 17:30:28 UTC] Request method: GET
+[08-Mar-2025 17:47:48 UTC] Cookies received: []
+[08-Mar-2025 17:47:48 UTC] Session ID: u93qj7c1sk9d5c8r1mvn2p8rl2
+[08-Mar-2025 17:47:48 UTC] Session before: []
+[08-Mar-2025 17:47:48 UTC] Request method: GET
+[08-Mar-2025 17:48:25 UTC] Cookies received: []
+[08-Mar-2025 17:48:25 UTC] Session ID: 6b0k2e0a1peup4rk5h3ujdok4q
+[08-Mar-2025 17:48:25 UTC] Session before: []
+[08-Mar-2025 17:48:25 UTC] Request method: OPTIONS
+[08-Mar-2025 17:48:26 UTC] Cookies received: []
+[08-Mar-2025 17:48:26 UTC] Session ID: sf32rm52h533gd9r0rndoip3va
+[08-Mar-2025 17:48:26 UTC] Session before: []
+[08-Mar-2025 17:48:26 UTC] Request method: POST
+[08-Mar-2025 17:48:26 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"460419"}
+[08-Mar-2025 17:48:26 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 17:48:26 UTC] Login session ID after: sf32rm52h533gd9r0rndoip3va
+[08-Mar-2025 17:48:26 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 17:50:10 UTC] Cookies received: []
+[08-Mar-2025 17:50:10 UTC] Session ID: svnj3olu2o4onsg0tutnlidk8i
+[08-Mar-2025 17:50:10 UTC] Session before: []
+[08-Mar-2025 17:50:10 UTC] Request method: GET
+[08-Mar-2025 17:56:50 UTC] Cookies received: []
+[08-Mar-2025 17:56:50 UTC] Session ID: 90ut44di1gcmscqst4ma7fkjan
+[08-Mar-2025 17:56:50 UTC] Session before: []
+[08-Mar-2025 17:56:50 UTC] Request method: GET
+[08-Mar-2025 17:56:52 UTC] Cookies received: []
+[08-Mar-2025 17:56:52 UTC] Session ID: 6id2rumb9tamq4bko3gpghaqh9
+[08-Mar-2025 17:56:52 UTC] Session before: []
+[08-Mar-2025 17:56:52 UTC] Request method: GET
+[08-Mar-2025 17:57:07 UTC] Cookies received: []
+[08-Mar-2025 17:57:07 UTC] Session ID: f1qigjd61q62kae370lo44avmq
+[08-Mar-2025 17:57:07 UTC] Session before: []
+[08-Mar-2025 17:57:07 UTC] Request method: OPTIONS
+[08-Mar-2025 17:57:07 UTC] Cookies received: []
+[08-Mar-2025 17:57:07 UTC] Session ID: n777oviuc6fmsq9t2sdahd2r3a
+[08-Mar-2025 17:57:07 UTC] Session before: []
+[08-Mar-2025 17:57:07 UTC] Request method: POST
+[08-Mar-2025 17:57:07 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"753258"}
+[08-Mar-2025 17:57:07 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 17:57:07 UTC] Login session ID after: n777oviuc6fmsq9t2sdahd2r3a
+[08-Mar-2025 17:57:07 UTC] Session save path: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 17:57:19 UTC] Cookies received: []
+[08-Mar-2025 17:57:19 UTC] Session ID: bs87p1e2st9efpucggf7p7uig6
+[08-Mar-2025 17:57:19 UTC] Session before: []
+[08-Mar-2025 17:57:19 UTC] Request method: GET
+[08-Mar-2025 17:58:43 UTC] Cookies received: []
+[08-Mar-2025 17:58:43 UTC] Session ID: qa8ii0lti8mlcv0tc8p5ob0ijf
+[08-Mar-2025 17:58:43 UTC] Session before: []
+[08-Mar-2025 17:58:43 UTC] Request method: GET
+[08-Mar-2025 17:58:48 UTC] Cookies received: []
+[08-Mar-2025 17:58:48 UTC] Session ID: m9ethandjlc8rqdk313qt08cup
+[08-Mar-2025 17:58:48 UTC] Session before: []
+[08-Mar-2025 17:58:48 UTC] Request method: GET
+[08-Mar-2025 17:59:08 UTC] Cookies received: []
+[08-Mar-2025 17:59:08 UTC] Session ID: jpmefh7j4mv3igjm9n9icmon6b
+[08-Mar-2025 17:59:08 UTC] Session before: []
+[08-Mar-2025 17:59:08 UTC] Request method: OPTIONS
+[08-Mar-2025 17:59:08 UTC] Cookies received: []
+[08-Mar-2025 17:59:08 UTC] Session ID: 5654cavunhldtlrlo00ulc654p
+[08-Mar-2025 17:59:08 UTC] Session before: []
+[08-Mar-2025 17:59:08 UTC] Request method: POST
+[08-Mar-2025 17:59:08 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"820657"}
+[08-Mar-2025 17:59:08 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 17:59:08 UTC] Login session ID after: 5654cavunhldtlrlo00ulc654p
+[08-Mar-2025 17:59:08 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 17:59:22 UTC] Cookies received: []
+[08-Mar-2025 17:59:22 UTC] Session ID: rupk4pd242jc4lks9hua7v51a5
+[08-Mar-2025 17:59:22 UTC] Session before: []
+[08-Mar-2025 17:59:22 UTC] Request method: GET
+[08-Mar-2025 17:59:34 UTC] Cookies received: []
+[08-Mar-2025 17:59:34 UTC] Session ID: iuuvi36uhq986khq7j5le3k9tb
+[08-Mar-2025 17:59:34 UTC] Session before: []
+[08-Mar-2025 17:59:34 UTC] Request method: GET
+[08-Mar-2025 17:59:35 UTC] Cookies received: []
+[08-Mar-2025 17:59:35 UTC] Session ID: mecubgitc4mbg0evrtoik0s273
+[08-Mar-2025 17:59:35 UTC] Session before: []
+[08-Mar-2025 17:59:35 UTC] Request method: GET
+[08-Mar-2025 18:04:42 UTC] Cookies received: []
+[08-Mar-2025 18:04:42 UTC] Session ID: 0q06pndbqa54u1lf3ndou4iedp
+[08-Mar-2025 18:04:42 UTC] Session before: []
+[08-Mar-2025 18:04:42 UTC] Request method: OPTIONS
+[08-Mar-2025 18:04:42 UTC] Cookies received: []
+[08-Mar-2025 18:04:42 UTC] Session ID: o6181jod515b532n7vjinblubc
+[08-Mar-2025 18:04:42 UTC] Session before: []
+[08-Mar-2025 18:04:42 UTC] Request method: POST
+[08-Mar-2025 18:04:42 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"119433"}
+[08-Mar-2025 18:04:42 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:04:42 UTC] Login session ID after: o6181jod515b532n7vjinblubc
+[08-Mar-2025 18:04:42 UTC] Session save path: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 18:05:59 UTC] Cookies received: []
+[08-Mar-2025 18:05:59 UTC] Session ID: gq6q7iq8miivdklu9h9qknnd16
+[08-Mar-2025 18:05:59 UTC] Session before: []
+[08-Mar-2025 18:05:59 UTC] Request method: GET
+[08-Mar-2025 18:07:49 UTC] Cookies received: []
+[08-Mar-2025 18:07:49 UTC] Session ID: bmkcg9th3kbfrcujpvbuchobq4
+[08-Mar-2025 18:07:49 UTC] Session before: []
+[08-Mar-2025 18:07:49 UTC] Request method: GET
+[08-Mar-2025 18:08:04 UTC] Cookies received: []
+[08-Mar-2025 18:08:04 UTC] Session ID: 1lgpfca0phql4cl3v1lps5rmah
+[08-Mar-2025 18:08:04 UTC] Session before: []
+[08-Mar-2025 18:08:04 UTC] Request method: OPTIONS
+[08-Mar-2025 18:08:04 UTC] Cookies received: []
+[08-Mar-2025 18:08:04 UTC] Session ID: sacpkin3qe9av01oft3lnfa5hr
+[08-Mar-2025 18:08:04 UTC] Session before: []
+[08-Mar-2025 18:08:04 UTC] Request method: POST
+[08-Mar-2025 18:08:04 UTC] POST data: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"408780"}
+[08-Mar-2025 18:08:04 UTC] Login session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:08:04 UTC] Login session ID after: sacpkin3qe9av01oft3lnfa5hr
+[08-Mar-2025 18:08:04 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 18:08:20 UTC] Cookies received: []
+[08-Mar-2025 18:08:20 UTC] Session ID: clam2v1d079ooksa244l1g09qa
+[08-Mar-2025 18:08:20 UTC] Session before: []
+[08-Mar-2025 18:08:20 UTC] Request method: GET
+[08-Mar-2025 18:09:33 UTC] Cookies received: []
+[08-Mar-2025 18:09:33 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:09:33 UTC] Session before: []
+[08-Mar-2025 18:09:33 UTC] Request method: GET
+[08-Mar-2025 18:09:33 UTC] Session ID (GET check): 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:09:33 UTC] Session data (GET check): []
+[08-Mar-2025 18:09:54 UTC] Cookies received: []
+[08-Mar-2025 18:09:54 UTC] Session ID: e0qipemd44e2m497dg1m1d1k1v
+[08-Mar-2025 18:09:54 UTC] Session before: []
+[08-Mar-2025 18:09:54 UTC] Request method: OPTIONS
+[08-Mar-2025 18:09:54 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:09:54 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:09:54 UTC] Session before: []
+[08-Mar-2025 18:09:54 UTC] Request method: POST
+[08-Mar-2025 18:09:54 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function connectDatabase(), 0 passed in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 75 and exactly 4 expected in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php:30
+Stack trace:
+#0 /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php(75): connectDatabase()
+#1 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/config.php on line 30
+[08-Mar-2025 18:11:37 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 18:11:37 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 18:11:37 UTC] Session before: []
+[08-Mar-2025 18:11:37 UTC] Request method: GET
+[08-Mar-2025 18:31:16 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:31:16 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:31:16 UTC] Session before: []
+[08-Mar-2025 18:31:16 UTC] Request method: GET
+[08-Mar-2025 18:31:18 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:31:18 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:31:18 UTC] Session before: []
+[08-Mar-2025 18:31:18 UTC] Request method: GET
+[08-Mar-2025 18:31:58 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:31:58 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:31:58 UTC] Session before: []
+[08-Mar-2025 18:31:58 UTC] Request method: GET
+[08-Mar-2025 18:31:59 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:31:59 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:31:59 UTC] Session before: []
+[08-Mar-2025 18:31:59 UTC] Request method: GET
+[08-Mar-2025 18:32:49 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:32:49 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:32:49 UTC] Session before: []
+[08-Mar-2025 18:32:49 UTC] Request method: GET
+[08-Mar-2025 18:32:51 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:32:51 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:32:51 UTC] Session before: []
+[08-Mar-2025 18:32:51 UTC] Request method: GET
+[08-Mar-2025 18:34:55 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:34:55 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:34:55 UTC] Session before: []
+[08-Mar-2025 18:34:55 UTC] Request method: GET
+[08-Mar-2025 18:36:05 UTC] Cookies received: []
+[08-Mar-2025 18:36:05 UTC] Session ID: g3t5tkcjnpmuu9s3s3nb6bi8ak
+[08-Mar-2025 18:36:05 UTC] Session before: []
+[08-Mar-2025 18:36:05 UTC] Request method: OPTIONS
+[08-Mar-2025 18:36:05 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:36:05 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:36:05 UTC] Session before: []
+[08-Mar-2025 18:36:05 UTC] Request method: POST
+[08-Mar-2025 18:36:05 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:36:21 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:36:21 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:36:21 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:36:21 UTC] Request method: GET
+[08-Mar-2025 18:36:40 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:36:40 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:36:40 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:36:40 UTC] Request method: GET
+[08-Mar-2025 18:39:18 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:39:18 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:39:18 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:39:18 UTC] Request method: GET
+[08-Mar-2025 18:43:21 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:43:21 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:43:21 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:43:21 UTC] Request method: GET
+[08-Mar-2025 18:43:50 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:43:50 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:43:50 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:43:50 UTC] Request method: GET
+[08-Mar-2025 18:43:52 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:43:52 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:43:52 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:43:52 UTC] Request method: GET
+[08-Mar-2025 18:44:33 UTC] Cookies received: []
+[08-Mar-2025 18:44:33 UTC] Session ID: etvlqsqmt2k436ms3mma2v97p9
+[08-Mar-2025 18:44:33 UTC] Session before: []
+[08-Mar-2025 18:44:33 UTC] Request method: GET
+[08-Mar-2025 18:44:57 UTC] Cookies received: []
+[08-Mar-2025 18:44:57 UTC] Session ID: gq2jm3tngh79esul27k0ctlnkr
+[08-Mar-2025 18:44:57 UTC] Session before: []
+[08-Mar-2025 18:44:57 UTC] Request method: OPTIONS
+[08-Mar-2025 18:44:57 UTC] Cookies received: []
+[08-Mar-2025 18:44:57 UTC] Session ID: bsj4b9fqu98j3oa9bgtoeucebh
+[08-Mar-2025 18:44:57 UTC] Session before: []
+[08-Mar-2025 18:44:57 UTC] Request method: POST
+[08-Mar-2025 18:44:57 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:45:07 UTC] Cookies received: []
+[08-Mar-2025 18:45:07 UTC] Session ID: l974t587vv1ktskj6h7t6iqspp
+[08-Mar-2025 18:45:07 UTC] Session before: []
+[08-Mar-2025 18:45:07 UTC] Request method: GET
+[08-Mar-2025 18:45:40 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:45:40 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:45:40 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:45:40 UTC] Request method: GET
+[08-Mar-2025 18:46:11 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:46:11 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:46:11 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:46:11 UTC] Request method: GET
+[08-Mar-2025 18:46:11 UTC] Restricted session: []
+[08-Mar-2025 18:46:11 UTC] Restricted session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:46:11 UTC] Session save path: /var/lib/php/sessions
+[08-Mar-2025 18:49:09 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:49:09 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:49:09 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:49:09 UTC] Request method: GET
+[08-Mar-2025 18:49:11 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:49:11 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:49:11 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:49:11 UTC] Request method: GET
+[08-Mar-2025 18:50:49 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:50:49 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:50:49 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:50:49 UTC] Request method: GET
+[08-Mar-2025 18:50:50 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 18:50:50 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 18:50:50 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 18:50:50 UTC] Request method: GET
+[08-Mar-2025 19:01:48 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:01:48 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:01:48 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 19:01:48 UTC] Request method: GET
+[08-Mar-2025 19:02:45 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:02:45 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:02:45 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 19:02:45 UTC] Request method: GET
+[08-Mar-2025 19:08:23 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:08:23 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:08:23 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"12b8723fa800b222695d75dcc7b410ca"}
+[08-Mar-2025 19:08:23 UTC] Request method: GET
+[08-Mar-2025 19:08:57 UTC] Session save path: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 19:08:57 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:08:57 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:08:57 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"12b8723fa800b222695d75dcc7b410ca"}
+[08-Mar-2025 19:08:57 UTC] Generated state: a0f0fd3f760c1e29f1d746159ae741f7
+[08-Mar-2025 19:08:57 UTC] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=888431414459-0cds2qd5v4pd2stfmnrhcruf5i6rcqvd.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fnode87.webte.fei.stuba.sk%2Fnobels%2Fbackend%2Foauth2callback.php&state=a0f0fd3f760c1e29f1d746159ae741f7&scope=email%20profile&approval_prompt=auto&include_granted_scopes=true
+[08-Mar-2025 19:09:07 UTC] Session save path: /var/www/node87.webte.fei.stuba.sk/nobels/backend/sessions
+[08-Mar-2025 19:09:07 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 19:09:07 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 19:09:07 UTC] Session before: []
+[08-Mar-2025 19:09:07 UTC] Received state: a0f0fd3f760c1e29f1d746159ae741f7
+[08-Mar-2025 19:09:07 UTC] Stored state: none
+[08-Mar-2025 19:09:07 UTC] PHP Warning:  Undefined array key "state" in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 67
+[08-Mar-2025 19:13:06 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:13:06 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:13:06 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:13:06 UTC] Request method: GET
+[08-Mar-2025 19:13:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 23
+[08-Mar-2025 19:13:26 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:13:26 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:13:26 UTC] Session before: []
+[08-Mar-2025 19:13:26 UTC] Generated state: 64ba0dc6035d83a2f566cb09e1803742
+[08-Mar-2025 19:13:26 UTC] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=888431414459-0cds2qd5v4pd2stfmnrhcruf5i6rcqvd.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fnode87.webte.fei.stuba.sk%2Fnobels%2Fbackend%2Foauth2callback.php&state=64ba0dc6035d83a2f566cb09e1803742&scope=email%20profile&approval_prompt=auto&include_granted_scopes=true
+[08-Mar-2025 19:13:33 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 23
+[08-Mar-2025 19:13:33 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 19:13:33 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 19:13:33 UTC] Session before: []
+[08-Mar-2025 19:13:33 UTC] Received state: 64ba0dc6035d83a2f566cb09e1803742
+[08-Mar-2025 19:13:33 UTC] Stored state: none
+[08-Mar-2025 19:13:33 UTC] PHP Warning:  Undefined array key "state" in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 66
+[08-Mar-2025 19:13:50 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:13:50 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:13:50 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:13:50 UTC] Request method: GET
+[08-Mar-2025 19:14:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 23
+[08-Mar-2025 19:14:00 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:14:00 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:14:00 UTC] Session before: []
+[08-Mar-2025 19:14:00 UTC] Generated state: c125142c249d3eb42f60015b9357fa10
+[08-Mar-2025 19:14:00 UTC] Auth URL: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&access_type=offline&client_id=888431414459-0cds2qd5v4pd2stfmnrhcruf5i6rcqvd.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fnode87.webte.fei.stuba.sk%2Fnobels%2Fbackend%2Foauth2callback.php&state=c125142c249d3eb42f60015b9357fa10&scope=email%20profile&approval_prompt=auto&include_granted_scopes=true
+[08-Mar-2025 19:15:50 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 23
+[08-Mar-2025 19:15:50 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 19:15:50 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 19:15:50 UTC] Session before: []
+[08-Mar-2025 19:15:50 UTC] Received state: c125142c249d3eb42f60015b9357fa10
+[08-Mar-2025 19:15:50 UTC] Stored state: none
+[08-Mar-2025 19:15:50 UTC] PHP Warning:  Undefined array key "state" in /var/www/node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php on line 66
+[08-Mar-2025 19:16:09 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:16:09 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:16:09 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:16:09 UTC] Request method: GET
+[08-Mar-2025 19:16:46 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:16:46 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:16:46 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:16:46 UTC] Request method: GET
+[08-Mar-2025 19:16:48 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:16:48 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:16:48 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:16:48 UTC] Request method: GET
+[08-Mar-2025 19:21:19 UTC] Cookies received: {"PHPSESSID":"62flvem66v4nopd8hvcinlqi3f"}
+[08-Mar-2025 19:21:19 UTC] Session ID: 62flvem66v4nopd8hvcinlqi3f
+[08-Mar-2025 19:21:19 UTC] Session before: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10","state":"a0f0fd3f760c1e29f1d746159ae741f7"}
+[08-Mar-2025 19:21:19 UTC] Request method: GET
+[08-Mar-2025 21:43:14 UTC] Cookies received: []
+[08-Mar-2025 21:43:14 UTC] Session ID: 29jdelbcr60ds2o7j8n1rkl41g
+[08-Mar-2025 21:43:14 UTC] Session before: []
+[08-Mar-2025 21:43:14 UTC] Request method: GET
+[08-Mar-2025 21:43:35 UTC] Cookies received: []
+[08-Mar-2025 21:43:35 UTC] Session ID: tuloivupfsrv6j2bp16fqh1ogd
+[08-Mar-2025 21:43:35 UTC] Session before: []
+[08-Mar-2025 21:43:35 UTC] Request method: OPTIONS
+[08-Mar-2025 21:43:35 UTC] Cookies received: []
+[08-Mar-2025 21:43:35 UTC] Session ID: hnutubb83s936tc878cckmcl78
+[08-Mar-2025 21:43:35 UTC] Session before: []
+[08-Mar-2025 21:43:35 UTC] Request method: POST
+[08-Mar-2025 21:43:36 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 21:43:46 UTC] Cookies received: []
+[08-Mar-2025 21:43:46 UTC] Session ID: egovf5rrhr4bpp3fp3gi2a8v7u
+[08-Mar-2025 21:43:46 UTC] Session before: []
+[08-Mar-2025 21:43:46 UTC] Request method: GET
+[08-Mar-2025 21:43:48 UTC] Cookies received: []
+[08-Mar-2025 21:43:48 UTC] Session ID: 5gun0im4vakhq69h5m6f2ebvlf
+[08-Mar-2025 21:43:48 UTC] Session before: []
+[08-Mar-2025 21:43:48 UTC] Request method: GET
+[08-Mar-2025 21:44:59 UTC] Cookies received: []
+[08-Mar-2025 21:44:59 UTC] Session ID: dbsddlihk3p041t9cng9jp9e1c
+[08-Mar-2025 21:44:59 UTC] Session before: []
+[08-Mar-2025 21:44:59 UTC] Request method: OPTIONS
+[08-Mar-2025 21:44:59 UTC] Cookies received: []
+[08-Mar-2025 21:44:59 UTC] Session ID: ck2jfrhf7gtfue46sdbnf6r1cg
+[08-Mar-2025 21:44:59 UTC] Session before: []
+[08-Mar-2025 21:44:59 UTC] Request method: POST
+[08-Mar-2025 21:44:59 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 21:45:20 UTC] Cookies received: []
+[08-Mar-2025 21:45:20 UTC] Session ID: ftcp4239e6n5enlcqutrisumrr
+[08-Mar-2025 21:45:20 UTC] Session before: []
+[08-Mar-2025 21:45:20 UTC] Request method: GET
+[08-Mar-2025 21:46:45 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 21:46:45 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 21:46:45 UTC] Session before: []
+[08-Mar-2025 21:46:45 UTC] Request method: GET
+[08-Mar-2025 21:47:31 UTC] Cookies received: []
+[08-Mar-2025 21:47:31 UTC] Session ID: gmfcsqf252gr2d4a6sl4t530l8
+[08-Mar-2025 21:47:31 UTC] Session before: []
+[08-Mar-2025 21:47:31 UTC] Request method: OPTIONS
+[08-Mar-2025 21:47:31 UTC] Cookies received: []
+[08-Mar-2025 21:47:31 UTC] Session ID: h1kdolq2dvbihme8mt9dkqokgv
+[08-Mar-2025 21:47:31 UTC] Session before: []
+[08-Mar-2025 21:47:31 UTC] Request method: POST
+[08-Mar-2025 21:47:31 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[08-Mar-2025 21:47:53 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 21:47:53 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 21:47:53 UTC] Session before: []
+[08-Mar-2025 21:47:53 UTC] Request method: GET
+[08-Mar-2025 21:47:58 UTC] Cookies received: {"_ga_QYXYGT2CTV":"GS1.1.1739968461.1.1.1739970126.0.0.0","_ga_CR46WX7N04":"GS1.1.1740675807.8.1.1740677993.0.0.0","_ga":"GA1.1.1444167331.1739968462","_ga_K07FH1QLJE":"GS1.1.1740918096.4.1.1740920935.52.0.0","PHPSESSID":"vlcofomi2839dlsg3pnn2u54l3"}
+[08-Mar-2025 21:47:58 UTC] Session ID: vlcofomi2839dlsg3pnn2u54l3
+[08-Mar-2025 21:47:58 UTC] Session before: []
+[08-Mar-2025 21:47:58 UTC] Request method: GET
+[09-Mar-2025 11:17:36 UTC] Cookies received: []
+[09-Mar-2025 11:17:36 UTC] Session ID: gjhr4npb8dhbj18t4app7otagf
+[09-Mar-2025 11:17:36 UTC] Session before: []
+[09-Mar-2025 11:17:36 UTC] Request method: GET
+[09-Mar-2025 11:17:36 UTC] Cookies received: []
+[09-Mar-2025 11:17:36 UTC] Session ID: 6v43cv4f22dnsq5flphlhvgmne
+[09-Mar-2025 11:17:36 UTC] Session before: []
+[09-Mar-2025 11:17:36 UTC] Request method: GET
+[09-Mar-2025 11:18:28 UTC] Cookies received: []
+[09-Mar-2025 11:18:28 UTC] Session ID: 84vvdao1p5ah50ut9c1b37167i
+[09-Mar-2025 11:18:28 UTC] Session before: []
+[09-Mar-2025 11:18:28 UTC] Request method: GET
+[09-Mar-2025 11:18:28 UTC] Cookies received: []
+[09-Mar-2025 11:18:28 UTC] Session ID: 8qa3iauavikso0nom8i8cc7lj9
+[09-Mar-2025 11:18:28 UTC] Session before: []
+[09-Mar-2025 11:18:28 UTC] Request method: GET
+[09-Mar-2025 11:24:46 UTC] Cookies received: []
+[09-Mar-2025 11:24:46 UTC] Session ID: ih2ltpbqj0vvih1094vo13gacg
+[09-Mar-2025 11:24:46 UTC] Session before: []
+[09-Mar-2025 11:24:46 UTC] Request method: GET
+[09-Mar-2025 11:25:15 UTC] Cookies received: []
+[09-Mar-2025 11:25:15 UTC] Session ID: ogemq5gc7cpsav1uuj691u6i7v
+[09-Mar-2025 11:25:15 UTC] Session before: []
+[09-Mar-2025 11:25:15 UTC] Request method: OPTIONS
+[09-Mar-2025 11:25:15 UTC] Cookies received: []
+[09-Mar-2025 11:25:15 UTC] Session ID: 167p2ouj0nk1pagdvn2s87o03c
+[09-Mar-2025 11:25:15 UTC] Session before: []
+[09-Mar-2025 11:25:15 UTC] Request method: POST
+[09-Mar-2025 11:25:16 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[09-Mar-2025 11:25:50 UTC] Cookies received: []
+[09-Mar-2025 11:25:50 UTC] Session ID: 9g9mbr8tf47omq6sl50ulvcvnv
+[09-Mar-2025 11:25:50 UTC] Session before: []
+[09-Mar-2025 11:25:50 UTC] Request method: GET
+[09-Mar-2025 11:30:40 UTC] Cookies received: []
+[09-Mar-2025 11:30:40 UTC] Session ID: 7j1a0pge8u7lqkjpc4kdcvt3gf
+[09-Mar-2025 11:30:40 UTC] Session before: []
+[09-Mar-2025 11:30:40 UTC] Request method: OPTIONS
+[09-Mar-2025 11:30:40 UTC] Cookies received: []
+[09-Mar-2025 11:30:40 UTC] Session ID: boi15hben2vgpolv9s0nppa5m4
+[09-Mar-2025 11:30:40 UTC] Session before: []
+[09-Mar-2025 11:30:40 UTC] Request method: POST
+[09-Mar-2025 11:30:41 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[09-Mar-2025 11:30:52 UTC] Cookies received: []
+[09-Mar-2025 11:30:52 UTC] Session ID: 9ngtpk4npit9g3sse6k10ptb71
+[09-Mar-2025 11:30:52 UTC] Session before: []
+[09-Mar-2025 11:30:52 UTC] Request method: GET
+[09-Mar-2025 11:32:34 UTC] Cookies received: []
+[09-Mar-2025 11:32:34 UTC] Session ID: doffv5klfhts5i3fvdvml2dl1b
+[09-Mar-2025 11:32:34 UTC] Session before: []
+[09-Mar-2025 11:32:34 UTC] Request method: OPTIONS
+[09-Mar-2025 11:32:34 UTC] Cookies received: []
+[09-Mar-2025 11:32:34 UTC] Session ID: j78330dr3hadijo3aoqqheqdh0
+[09-Mar-2025 11:32:34 UTC] Session before: []
+[09-Mar-2025 11:32:34 UTC] Request method: POST
+[09-Mar-2025 11:32:34 UTC] Session after: {"loggedin":true,"fullname":"Teak Min Guillaume Oh","email":"tekmin.oh2003@gmail.com","created_at":"2025-03-06 16:08:10"}
+[09-Mar-2025 11:32:44 UTC] Cookies received: []
+[09-Mar-2025 11:32:44 UTC] Session ID: eo4n4nua12nsvm6kq60ors2733
+[09-Mar-2025 11:32:44 UTC] Session before: []
+[09-Mar-2025 11:32:44 UTC] Request method: GET
+[09-Mar-2025 11:46:51 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"778505"}
+[09-Mar-2025 11:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php:44
+Stack trace:
+#0 {main}
+  thrown in /var/www/node87.webte.fei.stuba.sk/nobels/backend/login.php on line 44
+[09-Mar-2025 11:49:17 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"610950"}
+[09-Mar-2025 14:16:04 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"147817"}
+[09-Mar-2025 14:21:35 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"276573"}
+[09-Mar-2025 14:34:40 UTC] POST data received: {"email":"teakminguillaumeoh@gmail.com","password":"Bbkadedko1","2fa":"755184"}
+[09-Mar-2025 14:34:49 UTC] POST data received: {"email":"teakminguillaumeoh@gmail.com","password":"Babkadedko","2fa":"755184"}
+[09-Mar-2025 14:34:52 UTC] POST data received: {"email":"teakminguillaumeoh@gmail.com","password":"Babkadedko1","2fa":"755184"}
+[09-Mar-2025 14:34:55 UTC] POST data received: {"email":"teakminguillaumeoh@gmail.com","password":"babkadedko","2fa":"755184"}
+[09-Mar-2025 14:35:13 UTC] POST data received: {"email":"teakminguillaumesoh@gmail.com","password":"sad","2fa":"755184"}
+[09-Mar-2025 14:35:26 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"755184"}
+[09-Mar-2025 14:48:49 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"629020"}
+[09-Mar-2025 15:09:56 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"560127"}
+[09-Mar-2025 16:15:47 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"896981"}
+[09-Mar-2025 16:34:39 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"785597"}
+[09-Mar-2025 16:36:34 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"123309"}
+[09-Mar-2025 16:41:02 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"988603"}
+[09-Mar-2025 16:58:39 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"663795"}

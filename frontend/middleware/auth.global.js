@@ -27,8 +27,8 @@ export default defineNuxtRouteMiddleware((to, from) => {
       // User is logged in
       if (['/login', '/register'].includes(to.path)) {
         // Prevent logged-in users from accessing login/register pages
-        console.log('Already authenticated, redirecting to dashboard');
-        return navigateTo('/dashboard');
+        console.log('Already authenticated, redirecting to main page');
+        return navigateTo('/');
       }
     } else {
       // User is not logged in

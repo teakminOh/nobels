@@ -1,6 +1,6 @@
 import { defineStore } from 'pinia';
 import { useApi } from '~/composables/useApi';
-import { jwtDecode } from 'jwt-decode'; // Use named export
+import { jwtDecode } from 'jwt-decode';
 
 export const useAuthStore = defineStore('auth', {
   state: () => ({
@@ -9,7 +9,8 @@ export const useAuthStore = defineStore('auth', {
     fullname: null,
     email: null,
     created_at: null,
-    gid: null
+    gid: null,
+    loginHistory: [] // New state for login history
   }),
   actions: {
     async login(email, password, twoFaCode) {
@@ -31,7 +32,7 @@ export const useAuthStore = defineStore('auth', {
     },
     setToken(token) {
       try {
-        const decoded = jwtDecode(token); // Named export
+        const decoded = jwtDecode(token);
         const now = Date.now() / 1000;
         if (decoded.exp && decoded.exp > now) {
           this.token = token;
@@ -41,12 +42,13 @@ export const useAuthStore = defineStore('auth', {
           this.created_at = decoded.created_at || null;
           this.gid = decoded.gid || null;
           localStorage.setItem('auth_token', token);
+          console.log('setToken: Token set, isLoggedIn:', this.isLoggedIn);
         } else {
           this.clearState();
-          console.log('Token expired on set');
+          console.log('setToken: Token expired');
         }
       } catch (err) {
-        console.error('Invalid token:', err);
+        console.error('setToken: Invalid token:', err);
         this.clearState();
       }
     },
@@ -61,28 +63,32 @@ export const useAuthStore = defineStore('auth', {
       this.email = null;
       this.created_at = null;
       this.gid = null;
+      this.loginHistory = [];
     },
     isTokenValid() {
       if (!this.token) {
         this.isLoggedIn = false;
+        console.log('isTokenValid: No token');
         return false;
       }
       try {
-        const decoded = jwtDecode(this.token); // Named export
+        const decoded = jwtDecode(this.token);
         const now = Date.now() / 1000;
         const isValid = decoded.exp && decoded.exp > now;
         this.isLoggedIn = isValid;
+        console.log('isTokenValid: Valid:', isValid);
         return isValid;
       } catch (err) {
-        console.error('Token decode error:', err);
+        console.error('isTokenValid: Token decode error:', err);
         this.isLoggedIn = false;
         return false;
       }
     },
     validateStoredToken(token) {
       try {
-        const decoded = jwtDecode(token); // Named export
+        const decoded = jwtDecode(token);
         const now = Date.now() / 1000;
+        console.log('validateStoredToken: now:', now, 'exp:', decoded.exp);
         if (decoded.exp && decoded.exp > now) {
           this.token = token;
           this.isLoggedIn = true;
@@ -90,21 +96,79 @@ export const useAuthStore = defineStore('auth', {
           this.email = decoded.email || null;
           this.created_at = decoded.created_at || null;
           this.gid = decoded.gid || null;
+          console.log('validateStoredToken: Token valid, isLoggedIn:', this.isLoggedIn);
         } else {
           this.clearState();
-          console.log('Stored token expired');
+          console.log('validateStoredToken: Token expired');
         }
       } catch (err) {
-        console.error('Stored token invalid:', err);
+        console.error('validateStoredToken: Invalid token:', err);
         this.clearState();
+      }
+    },
+    async updateFullname(newFullname) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/update-profile.php', {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${this.token}` },
+          body: JSON.stringify({ fullname: newFullname })
+        });
+        console.log('Update fullname response:', response);
+        if (response.success) {
+          this.fullname = newFullname;
+          // Optionally update token if backend returns a new one
+          if (response.token) this.setToken(response.token);
+          return { success: true };
+        }
+        return { success: false, message: response.message || 'Chyba pri zmene mena' };
+      } catch (err) {
+        console.error('Update fullname error:', err);
+        return { success: false, message: 'Chyba pri zmene mena' };
+      }
+    },
+    async updatePassword(currentPassword, newPassword) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/update-password.php', {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${this.token}` },
+          body: JSON.stringify({ currentPassword, newPassword })
+        });
+        console.log('Update password response:', response);
+        if (response.success) {
+          return { success: true };
+        }
+        return { success: false, message: response.message || 'Chyba pri zmene hesla' };
+      } catch (err) {
+        console.error('Update password error:', err);
+        return { success: false, message: 'Chyba pri zmene hesla' };
+      }
+    },
+    async fetchLoginHistory() {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/login-history.php', {
+          method: 'GET',
+          headers: { 'Authorization': `Bearer ${this.token}` }
+        });
+        console.log('Login history response:', response);
+        if (response.success) {
+          this.loginHistory = response.history || [];
+          return { success: true };
+        }
+        return { success: false, message: response.message || 'Chyba pri načítaní histórie' };
+      } catch (err) {
+        console.error('Fetch login history error:', err);
+        return { success: false, message: 'Chyba pri načítaní histórie' };
       }
     }
   },
   hydrate(store) {
     const storedToken = localStorage.getItem('auth_token');
     if (storedToken) {
-      // Just set the token first
       store.token = storedToken;
+      console.log('hydrate: Token set:', storedToken);
     }
   }
 });

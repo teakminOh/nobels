@@ -1,62 +1,147 @@
-<!-- NobelTable.vue --> 
+<!-- NobelTable.vue -->
 <template>
-  <div class="overflow-x-auto">
     <!-- Desktop/Tablet View -->
-    <table class="w-full table-fixed hidden sm:table">
-      <thead>
-        <tr class="bg-gray-100">
-          <th class="border p-2 text-left cursor-pointer w-2/5" @click="emit('sort', 'surname')">Surname/Organisation</th>
-          <th v-if="!selectedYear" class="border p-2 text-left cursor-pointer w-1/5" @click="emit('sort', 'year')">Years</th>
-          <th class="border p-2 text-left w-1/5">Countries</th>
-          <th v-if="!selectedCategory" class="border p-2 text-left cursor-pointer w-1/5 min-w-1/5" @click="emit('sort', 'category')">Categories</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr v-for="laureate in laureates" :key="laureate.id" @click="navigateToDetails(laureate.id)" class="hover:bg-gray-100 cursor-pointer">
-          <td class="border p-2 truncate" :title="laureate.fullname || laureate.organisation">
-            <NuxtLink :to="getDetailsLink(laureate.id)" class="text-blue-600 hover:underline" @click.prevent>
-              {{ displayName(laureate) }}
-            </NuxtLink>
-          </td>
-          <td v-if="!selectedYear" class="border p-2 truncate" :title="laureate.prizes.map(prize => prize.year).join(', ')">
-            {{ laureate.prizes.map(prize => prize.year).join(', ') }}
-          </td>
-          <td class="border p-2 truncate" :title="laureate.countries">
-            {{ laureate.countries }}
-          </td>
-          <td v-if="!selectedCategory" class="border p-2 truncate" :title="[...new Set(laureate.prizes.map(prize => prize.category))].join(', ')">
-            {{ [...new Set(laureate.prizes.map(prize => prize.category))].join(', ') }}
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="hidden sm:block overflow-hidden rounded-lg">
+      <table class="min-w-full divide-y divide-gray-200">
+        <thead>
+          <tr>
+            <th 
+              class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-left text-xs font-semibold text-white uppercase tracking-wider cursor-pointer w-2/5"
+              @click="emit('sort', 'surname')"
+            >
+              <div class="flex items-center space-x-1">
+                <span>Surname/Organisation</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
+                </svg>
+              </div>
+            </th>
+            <th 
+              v-if="!selectedYear" 
+              class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-left text-xs font-semibold text-white uppercase tracking-wider cursor-pointer w-1/5"
+              @click="emit('sort', 'year')"
+            >
+              <div class="flex items-center space-x-1">
+                <span>Years</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
+                </svg>
+              </div>
+            </th>
+            <th class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-left text-xs font-semibold text-white uppercase tracking-wider w-1/5">
+              Countries
+            </th>
+            <th 
+              v-if="!selectedCategory" 
+              class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-left text-xs font-semibold text-white uppercase tracking-wider cursor-pointer w-1/5"
+              @click="emit('sort', 'category')"
+            >
+              <div class="flex items-center space-x-1">
+                <span>Categories</span>
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16V4m0 0L3 8m4-4l4 4m6 0v12m0 0l4-4m-4 4l-4-4" />
+                </svg>
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody class="bg-white divide-y divide-gray-200">
+          <tr 
+            v-for="(laureate, index) in laureates" 
+            :key="laureate.id" 
+            @click="navigateToDetails(laureate.id)" 
+            class="hover:bg-blue-50 transition-colors duration-150 ease-in-out cursor-pointer"
+            :class="{'bg-gray-50': index % 2 === 0}"
+          >
+            <td class="px-6 py-4 whitespace-nowrap" :title="laureate.fullname || laureate.organisation">
+              <NuxtLink :to="getDetailsLink(laureate.id)" class="text-blue-600 hover:text-blue-900 font-medium hover:underline" @click.prevent>
+                {{ displayName(laureate) }}
+              </NuxtLink>
+            </td>
+            <td v-if="!selectedYear" class="px-6 py-4 whitespace-nowrap text-gray-700" :title="laureate.prizes.map(prize => prize.year).join(', ')">
+              {{ laureate.prizes.map(prize => prize.year).join(', ') }}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-gray-700" :title="laureate.countries">
+              <div class="flex items-center">
+                <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                  {{ laureate.countries }}
+                </span>
+              </div>
+            </td>
+            <td v-if="!selectedCategory" class="px-6 py-4 whitespace-nowrap text-gray-700" :title="[...new Set(laureate.prizes.map(prize => prize.category))].join(', ')">
+              <div class="flex flex-wrap gap-1">
+                <span 
+                  v-for="category in [...new Set(laureate.prizes.map(prize => prize.category))]" 
+                  :key="category"
+                  class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800"
+                >
+                  {{ category }}
+                </span>
+              </div>
+            </td>
+          </tr>
+          <!-- Empty state row -->
+          <tr v-if="laureates.length === 0">
+            <td :colspan="getColspan" class="px-6 py-10 text-center text-gray-500 bg-gray-50">
+              <div class="flex flex-col items-center justify-center">
+                <svg class="w-12 h-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <span class="mt-2 text-sm font-medium">No laureates found matching your criteria</span>
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
 
     <!-- Mobile View -->
-    <div class="sm:hidden">
-      <div v-for="laureate in laureates" :key="laureate.id" 
-           @click="navigateToDetails(laureate.id)"
-           class="border-b p-4 mb-2 hover:bg-gray-100 cursor-pointer">
-        <div class="mb-2">
-          <span class="font-bold">Name: </span>
-          <NuxtLink :to="getDetailsLink(laureate.id)" class="text-blue-600 hover:underline" @click.prevent>
+    <div class="sm:hidden space-y-3">
+      <div 
+        v-for="laureate in laureates" 
+        :key="laureate.id"
+        @click="navigateToDetails(laureate.id)"
+        class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300"
+      >
+        <div class="bg-gradient-to-r from-blue-600 to-indigo-700 px-4 py-2">
+          <NuxtLink :to="getDetailsLink(laureate.id)" class="text-white font-medium hover:underline" @click.prevent>
             {{ displayName(laureate) }}
           </NuxtLink>
         </div>
-        <div v-if="!selectedYear" class="mb-2">
-          <span class="font-bold">Years: </span>
-          <span>{{ laureate.prizes.map(prize => prize.year).join(', ') }}</span>
-        </div>
-        <div class="mb-2">
-          <span class="font-bold">Countries: </span>
-          <span>{{ laureate.countries }}</span>
-        </div>
-        <div v-if="!selectedCategory" class="mb-2">
-          <span class="font-bold">Categories: </span>
-          <span>{{ [...new Set(laureate.prizes.map(prize => prize.category))].join(', ') }}</span>
+        <div class="px-4 py-3 space-y-2">
+          <div v-if="!selectedYear" class="flex">
+            <span class="text-gray-500 font-medium w-24">Years:</span>
+            <span class="text-gray-800">{{ laureate.prizes.map(prize => prize.year).join(', ') }}</span>
+          </div>
+          <div class="flex">
+            <span class="text-gray-500 font-medium w-24">Countries:</span>
+            <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+              {{ laureate.countries }}
+            </span>
+          </div>
+          <div v-if="!selectedCategory" class="flex">
+            <span class="text-gray-500 font-medium w-24">Categories:</span>
+            <div class="flex flex-wrap gap-1">
+              <span 
+                v-for="category in [...new Set(laureate.prizes.map(prize => prize.category))]" 
+                :key="category"
+                class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800"
+              >
+                {{ category }}
+              </span>
+            </div>
+          </div>
         </div>
       </div>
+      
+      <!-- Empty state for mobile -->
+      <div v-if="laureates.length === 0" class="bg-white rounded-lg shadow overflow-hidden p-6 text-center">
+        <svg class="w-12 h-12 text-gray-400 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        </svg>
+        <p class="mt-2 text-gray-500">No laureates found matching your criteria</p>
+      </div>
     </div>
-  </div>
 </template>
 
 <script setup>
@@ -121,6 +206,14 @@ const displayName = (laureate) => {
   // Return full organisation name if present, or 'N/A' if neither
   return laureate.organisation || 'N/A';
 };
+
+const getColspan = computed(() => {
+  let count = 1; // Name column
+  if (!props.selectedYear) count++;
+  if (!props.selectedCategory) count++;
+  count++; // Countries column
+  return count;
+});
 </script>
 
 <style scoped>

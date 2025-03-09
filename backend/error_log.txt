@@ -950,3 +950,9 @@ Stack trace:
 [09-Mar-2025 16:36:34 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"123309"}
 [09-Mar-2025 16:41:02 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"988603"}
 [09-Mar-2025 16:58:39 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"663795"}
+[09-Mar-2025 17:52:48 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"670778"}
+[09-Mar-2025 18:04:06 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Babkadedko1","2fa":"894683"}
+[09-Mar-2025 18:04:15 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Ahoj123","2fa":"894683"}
+[09-Mar-2025 18:07:17 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Ahoj123","2fa":"807901"}
+[09-Mar-2025 18:07:17 UTC] Login error: SQLSTATE[HY000]: General error: 1364 Field 'email' doesn't have a default value
+[09-Mar-2025 18:10:39 UTC] POST data received: {"email":"tekmin.oh2003@gmail.com","password":"Ahoj123","2fa":"229404"}

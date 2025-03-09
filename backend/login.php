@@ -60,6 +60,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             echo json_encode(['success' => false, 'message' => 'Nesprávny 2FA kód.']);
             exit;
         }
+         // Save the login time in the users_login table
+         $loginType = 'email'; // or any other identifier for your login method
+         $insertStmt = $pdo->prepare("INSERT INTO users_login (user_id, login_type, email, fullname, login_time) VALUES (:user_id, :login_type, :email, :fullname, NOW())");
+         $insertStmt->execute([
+             'user_id'   => $user['id'],
+             'login_type'=> $loginType,
+             'email'     => $user['email'],
+             'fullname'  => $user['fullname']
+         ]);
 
         $payload = [
             'iat' => time(),

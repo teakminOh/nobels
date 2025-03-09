@@ -1,9 +1,9 @@
 <!-- NobelLaureates.vue -->
 <template>
-  <div class="container mx-auto p-4">
+  <div class="max-w-7xl container mx-auto p-4">
     <!-- <h1 class="text-2xl font-bold mb-6">Nobel Laureates</h1> -->
 
-    <div class="p-4 shadow-lg rounded-lg">
+    <div class=" shadow-lg rounded-lg">
       <NobelFilters
         :selectedYear="selectedYear"
         :selectedCategory="selectedCategory"

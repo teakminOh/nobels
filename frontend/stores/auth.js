@@ -10,7 +10,8 @@ export const useAuthStore = defineStore('auth', {
     email: null,
     created_at: null,
     gid: null,
-    loginHistory: [] // New state for login history
+    loginHistory: [], // New state for login history
+    type: null
   }),
   actions: {
     async login(email, password, twoFaCode) {
@@ -33,25 +34,26 @@ export const useAuthStore = defineStore('auth', {
     setToken(token) {
       try {
         const decoded = jwtDecode(token);
-        const now = Date.now() / 1000;
-        if (decoded.exp && decoded.exp > now) {
-          this.token = token;
-          this.isLoggedIn = true;
-          this.fullname = decoded.fullname || null;
-          this.email = decoded.email || null;
-          this.created_at = decoded.created_at || null;
-          this.gid = decoded.gid || null;
-          localStorage.setItem('auth_token', token);
-          console.log('setToken: Token set, isLoggedIn:', this.isLoggedIn);
-        } else {
-          this.clearState();
-          console.log('setToken: Token expired');
-        }
+          const now = Date.now() / 1000;
+          if (decoded.exp && decoded.exp > now) {
+            this.token = token;
+            this.isLoggedIn = true;
+            this.fullname = decoded.fullname || null;
+            this.email = decoded.email || null;
+            this.created_at = decoded.created_at || null;
+            this.gid = decoded.gid || null;
+            localStorage.setItem('auth_token', token);
+            console.log('setToken: Token set, isLoggedIn:', this.isLoggedIn);
+          } else {
+            this.clearState();
+            console.log('setToken: Token expired');
+          }
+        
       } catch (err) {
         console.error('setToken: Invalid token:', err);
         this.clearState();
       }
-    },
+    },   
     logout() {
       this.clearState();
       localStorage.removeItem('auth_token');
@@ -87,6 +89,10 @@ export const useAuthStore = defineStore('auth', {
     validateStoredToken(token) {
       try {
         const decoded = jwtDecode(token);
+        if(decoded.type === 'reset'){
+          this.clearState();
+        }
+        else{
         const now = Date.now() / 1000;
         console.log('validateStoredToken: now:', now, 'exp:', decoded.exp);
         if (decoded.exp && decoded.exp > now) {
@@ -101,6 +107,7 @@ export const useAuthStore = defineStore('auth', {
           this.clearState();
           console.log('validateStoredToken: Token expired');
         }
+      }
       } catch (err) {
         console.error('validateStoredToken: Invalid token:', err);
         this.clearState();
@@ -127,6 +134,48 @@ export const useAuthStore = defineStore('auth', {
         return { success: false, message: 'Chyba pri zmene mena' };
       }
     },
+    async reset2FA() {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/reset-2fa.php', {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${this.token}` }
+          // No body needed if the endpoint solely relies on the token.
+        });
+        console.log('Reset 2FA response:', response);
+        if (response.success) {
+          // Return additional data from the endpoint (QR code URL, new secret)
+          return { 
+            success: true, 
+            message: response.message, 
+            qrCodeUrl: response.qrCodeUrl, 
+            newSecret: response.newSecret 
+          };
+        }
+        return { success: false, message: response.message || 'Error resetting 2FA' };
+      } catch (err) {
+        console.error('Reset 2FA error:', err);
+        return { success: false, message: 'Error resetting 2FA' };
+      }
+    },    
+    async disable2FA() {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/disable-2fa.php', {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${this.token}` }
+          // No body needed if the endpoint solely relies on the token
+        });
+        console.log('Disable 2FA response:', response);
+        if (response.success) {
+          return { success: true };
+        }
+        return { success: false, message: response.message || 'Error disabling 2FA' };
+      } catch (err) {
+        console.error('Disable 2FA error:', err);
+        return { success: false, message: 'Error disabling 2FA' };
+      }
+    },    
     async updatePassword(currentPassword, newPassword) {
       const { fetchApi } = useApi();
       try {
@@ -162,6 +211,11 @@ export const useAuthStore = defineStore('auth', {
         console.error('Fetch login history error:', err);
         return { success: false, message: 'Chyba pri načítaní histórie' };
       }
+    }
+  },
+  getters: {
+    isGoogleUser() {
+      return !!this.gid;
     }
   },
   hydrate(store) {

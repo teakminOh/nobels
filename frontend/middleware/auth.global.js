@@ -16,7 +16,7 @@ export default defineNuxtRouteMiddleware((to, from) => {
     }
     
     // Define public routes that anyone can access (static routes)
-    const publicRoutes = ['/login', '/register', '/', '/google-login'];
+    const publicRoutes = ['/login', '/register', '/', '/auth/forgot-password', '/auth/reset-password'];
     
     // Check if the current route is public
     // Allow any route that exactly matches a public route or starts with "/details/"

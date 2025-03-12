@@ -1,8 +1,8 @@
 <template>
-  <div class="container mx-auto p-12 max-w-md">
+  <div class="container min-h-screen mx-auto p-12 max-w-xl">
     <div class="bg-white rounded-lg shadow-lg p-8">
       <header class="text-center mb-8">
-        <h1 class="text-3xl font-bold text-gray-800 mb-2">Registrácia</h1>
+        <h1 class="mb-6 text-center text-3xl font-extrabold text-gray-900">Registrácia</h1>
         <h2 class="text-gray-600">Vytvorenie nového používateľského konta</h2>
       </header>
       <main>

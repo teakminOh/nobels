@@ -172,14 +172,27 @@ const login = async () => {
   loading.value = false;
 };
 
+// const googleLogin = async () => {
+//   loading.value = true;
+//   const response = await fetchApi('/oauth2callback.php', { method: 'GET' });
+//   if (response.success && response.auth_url) {
+//     window.location.href = response.auth_url;
+//   } else {
+//     error.value = 'Google login failed';
+//   }
+//   loading.value = false;
+// };
+
 const googleLogin = async () => {
   loading.value = true;
-  const response = await fetchApi('/oauth2callback.php', { method: 'GET' });
+  const response = await $fetch('https://node87.webte.fei.stuba.sk/nobels/backend/oauth2callback.php', {
+    method: 'GET',
+  });
   if (response.success && response.auth_url) {
     window.location.href = response.auth_url;
   } else {
     error.value = 'Google login failed';
-  }
+  } 
   loading.value = false;
 };
 </script>

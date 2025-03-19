@@ -216,7 +216,7 @@ export const useAuthStore = defineStore('auth', {
             messages: response.messages || [] // Include prize messages if present
           };
         }
-        return { success: false, message: response.error || 'Error adding laureate' };
+        return { success: false, message: error || 'Error adding laureate' };
       } catch (err) {
         console.error('Add laureate error:', err);
         return { success: false, message: 'Error adding laureate' };

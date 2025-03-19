@@ -14,7 +14,7 @@
         :countries="countries"
         @update="handleFilterChange"
       />
-      <button @click="showModal = true" class="mb-2 px-4 py-2 bg-lime-600 text-white rounded">
+      <button v-if="authStore.isLoggedIn" @click="showModal = true" class="mb-2 px-4 py-2 bg-lime-600 text-white rounded">
         Pridaj laureáta
       </button>
       <AddLaureate
@@ -44,10 +44,12 @@
 import { ref, computed, onMounted, onBeforeMount, watch } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { useApi } from '../composables/useApi';
+import { useAuthStore } from '../stores/auth';
 
 const route = useRoute();
 const router = useRouter();
 const { getLaureates } = useApi();
+const authStore = useAuthStore();
 
 const laureates = ref([]);
 const years = ref([]);

@@ -43,7 +43,7 @@
             </div>
           </th>
           <!-- Delete Column -->
-          <th class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-center text-xs font-semibold text-white uppercase tracking-wider">
+          <th v-if="authStore.isLoggedIn" class="px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-700 text-center text-xs font-semibold text-white uppercase tracking-wider">
 
           </th>
         </tr>
@@ -86,7 +86,7 @@
             </div>
           </td>
           <!-- Delete Button Column -->
-          <td class="px-6 py-4 whitespace-nowrap text-center">
+          <td v-if="authStore.isLoggedIn" class="px-6 py-4 whitespace-nowrap text-center">
             <button 
               @click.stop="openDeleteModal(laureate.id)" 
               title="Delete Laureate"
@@ -132,7 +132,7 @@
           <span class="truncate block">{{ displayName(laureate) }}</span>
         </NuxtLink>
         <!-- Delete Button for Mobile -->
-        <button @click.stop="openDeleteModal(laureate.id)" title="Delete Laureate">
+        <button v-if="authStore.isLoggedIn" @click.stop="openDeleteModal(laureate.id)" title="Odstrániť laureáta">
           <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
                   d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6M9 7h6m-1-4h-4a1 1 0 00-1 1v1h6V4a1 1 0 00-1-1z" />
@@ -191,6 +191,10 @@
 import { ref, computed } from 'vue';
 import { useRouter } from 'vue-router';
 import { useApi } from '../composables/useApi';
+import { useAuthStore } from '~/stores/auth';
+
+
+const authStore = useAuthStore();
 
 const router = useRouter();
 
@@ -260,7 +264,6 @@ const getColspan = computed(() => {
   return count;
 });
 
-const { deleteLaureate } = useApi();
 // Reactive variables for deletion modal
 const showDeleteModal = ref(false);
 const laureateToDelete = ref(null);
@@ -272,8 +275,11 @@ const openDeleteModal = (id) => {
 
 const confirmDeletion = async () => {
   try {
-    const res = await deleteLaureate({ id: laureateToDelete.value });
-    if (res.error) throw new Error(res.error);
+    // Call the deleteLaureate action from authStore
+    const res = await authStore.deleteLaureate(laureateToDelete.value);
+    if (!res.success) throw new Error(res.message || 'Failed to delete laureate');
+    
+    // Emit event to notify parent component of successful deletion
     emit('laureateDeleted', laureateToDelete.value);
     showDeleteModal.value = false;
     laureateToDelete.value = null;

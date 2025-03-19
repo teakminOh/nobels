@@ -66,7 +66,6 @@
               <option value="">Select Sex</option>
               <option value="M">Male</option>
               <option value="F">Female</option>
-              <option value="Other">Other</option>
             </select>
           </div>
 
@@ -303,9 +302,9 @@
 
 <script setup>
 import { ref } from 'vue';
-import { useApi } from '../composables/useApi';
+import { useAuthStore } from '../stores/auth';
+const authStore = useAuthStore();
 
-const { fetchApi } = useApi();
 const emit = defineEmits(['close']);
 
 const form = ref({
@@ -434,33 +433,33 @@ const submitForm = async () => {
   success.value = '';
   prizeMessages.value = [];
   
+  // Check if the user is logged in before submitting
+  if (!authStore.isLoggedIn) {
+    error.value = 'You must be logged in to submit data';
+    return;
+  }
+  
   try {
-    // Use bulk payload if exists, otherwise use form data.
     const payload = bulkPayload.value !== null
       ? bulkPayload.value
       : JSON.parse(JSON.stringify(form.value));
     
-    // Optional validations for single submission.
     if (bulkPayload.value === null && !validateForm()) {
       return;
     }
     
-    const data = await fetchApi('/addLaureate.php', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    });
+    // Use authStore.addLaureate instead of direct fetchApi
+    const result = await authStore.addLaureate(payload);
     
-    if (data.error) {
-      throw new Error(data.error || 'Something went wrong');
+    if (!result.success) {
+      throw new Error(result.message || 'Something went wrong');
     }
     
-    success.value = data.message;
-    if (data.messages && data.messages.length > 0) {
-      prizeMessages.value = data.messages;
+    success.value = result.message;
+    if (result.messages && result.messages.length > 0) {
+      prizeMessages.value = result.messages;
     }
     
-    // If single submission, reset the form.
     if (bulkPayload.value === null) {
       form.value = {
         laureateType: 'person',

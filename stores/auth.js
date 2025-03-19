@@ -175,7 +175,101 @@ export const useAuthStore = defineStore('auth', {
         console.error('Disable 2FA error:', err);
         return { success: false, message: 'Error disabling 2FA' };
       }
-    },    
+    },
+    async deleteLaureate(laureateId) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/deleteLaureate.php', {
+          method: 'DELETE',
+          headers: { 
+            'Authorization': `Bearer ${this.token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ id: laureateId })
+        });
+        console.log('Delete laureate response:', response);
+        if (response.success) {
+          return { success: true, message: response.message || 'Laureate deleted successfully' };
+        }
+        return { success: false, message: response.error || 'Error deleting laureate' };
+      } catch (err) {
+        console.error('Delete laureate error:', err);
+        return { success: false, message: 'Error deleting laureate' };
+      }
+    },
+    async addLaureate(payload) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/addLaureate.php', {
+          method: 'POST',
+          headers: { 
+            'Authorization': `Bearer ${this.token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(payload)
+        });
+        console.log('Add laureate response:', response);
+        if (response.success) {
+          return { 
+            success: true, 
+            message: response.message || 'Laureate(s) added successfully',
+            messages: response.messages || [] // Include prize messages if present
+          };
+        }
+        return { success: false, message: response.error || 'Error adding laureate' };
+      } catch (err) {
+        console.error('Add laureate error:', err);
+        return { success: false, message: 'Error adding laureate' };
+      }
+    },
+    async updateLaureate(payload) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/updateLaureate.php', {
+          method: 'PUT',
+          headers: { 
+            'Authorization': `Bearer ${this.token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(payload)
+        });
+        console.log('Update laureate response:', response);
+        if (response.success) {
+          return { 
+            success: true, 
+            message: response.message || 'Laureate updated successfully'
+          };
+        }
+        return { success: false, message: response.error || 'Error updating laureate' };
+      } catch (err) {
+        console.error('Update laureate error:', err);
+        return { success: false, message: 'Error updating laureate' };
+      }
+    },
+    async deletePrize(laureateId, prizeId) {
+      const { fetchApi } = useApi();
+      try {
+        const response = await fetchApi('/deletePrize.php', {
+          method: 'DELETE',
+          headers: { 
+            'Authorization': `Bearer ${this.token}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ laureateId, prizeId })
+        });
+        console.log('Delete prize response:', response);
+        if (response.success) {
+          return { 
+            success: true, 
+            message: response.message || 'Prize removed successfully'
+          };
+        }
+        return { success: false, message: response.error || 'Error removing prize' };
+      } catch (err) {
+        console.error('Delete prize error:', err);
+        return { success: false, message: 'Error removing prize' };
+      }
+    },
     async updatePassword(currentPassword, newPassword) {
       const { fetchApi } = useApi();
       try {

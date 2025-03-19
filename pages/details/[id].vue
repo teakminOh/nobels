@@ -31,7 +31,7 @@
             </h1>
             <h1 v-else class="text-2xl font-bold">Laureate Details</h1>
           </div>
-          <button @click="enterEditMode" class="">
+          <button v-if="authStore.isLoggedIn" @click="enterEditMode" class="">
             <svg class="pen-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="blue" width="24" height="24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 19l-1-4L16 9l4 4-6 6-4-1zm-6 2h14" />
             </svg>
@@ -78,7 +78,7 @@
         
       </div>
       <!-- Edit Mode -->
-      <div v-else class="max-w-2xl mx-auto bg-white overflow-hidden">
+      <div v-else-if="authStore.isLoggedIn" class="max-w-2xl mx-auto bg-white overflow-hidden">
 
     <h1 class="text-2xl font-bold">Edit Nobel Laureate</h1>
  
@@ -113,12 +113,11 @@
           <span class="text-gray-700 font-medium">Sex</span>
           <select
             v-model="editableLaureate.sex"
+            required
             class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
           >
-            <option value="">Select Sex</option>
             <option value="M">Male</option>
             <option value="F">Female</option>
-            <option value="Other">Other</option>
           </select>
         </label>
       </div>
@@ -310,6 +309,10 @@
 import { ref, onMounted } from 'vue';
 import { useRoute } from 'vue-router';
 import { useApi } from '../composables/useApi';
+import { useAuthStore } from '~/stores/auth';
+
+
+const authStore = useAuthStore();
 
 const route = useRoute();
 // Notice: We destructure deletePrize from the composable.
@@ -379,22 +382,32 @@ const removePrize = async (index) => {
   // If the prize has an ID, it exists on the backend.
   if (prize.id) {
     try {
-      const res = await deletePrize(prize.id, editableLaureate.value.id);
-      if (res.error) throw new Error(res.error);
+      if (!authStore.isLoggedIn) {
+        throw new Error('You must be logged in to delete a prize');
+      }
+
+      const res = await authStore.deletePrize(editableLaureate.value.id, prize.id);
+      if (!res.success) throw new Error(res.message || 'Failed to delete prize');
       // If deletion succeeded, remove it from the local state.
       editableLaureate.value.prizes.splice(index, 1);
+      updateSuccess.value = res.message || 'Prize removed successfully';
     } catch (err) {
       error.value = err.message;
       console.error('Failed to delete prize on backend:', err);
     }
   } else {
-    // If not saved, simply remove it.
+    // If not saved, simply remove it locally.
     editableLaureate.value.prizes.splice(index, 1);
+    updateSuccess.value = 'Prize removed from local state';
   }
 };
 
 const saveUpdates = async () => {
   try {
+    if (!authStore.isLoggedIn) {
+      throw new Error('You must be logged in to update a laureate');
+    }
+
     const payload = {
       id: editableLaureate.value.id,
       fullname: editableLaureate.value.fullname,
@@ -406,12 +419,14 @@ const saveUpdates = async () => {
       prizes: editableLaureate.value.prizes
     };
 
-    const res = await updateLaureate(payload);
-    if (res.error) throw new Error(res.error);
+    const res = await authStore.updateLaureate(payload);
+    if (!res.success) throw new Error(res.message || 'Failed to update laureate');
 
     laureate.value = JSON.parse(JSON.stringify(editableLaureate.value));
-    updateSuccess.value = 'Laureate updated successfully.';
+    laureate.value.countries = payload.countries; // Update countries array
+    updateSuccess.value = res.message || 'Laureate updated successfully.';
     editMode.value = false;
+    emit('laureateUpdated', laureate.value); // Optional: notify parent
   } catch (err) {
     error.value = err.message;
     console.error('Update failed:', err);
